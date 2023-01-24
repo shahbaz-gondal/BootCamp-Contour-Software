@@ -1,0 +1,31 @@
+﻿@model Restaurent_Management_System.Models.BookingModel
+
+@{
+    ViewData["Title"] = "Update Page";
+}
+
+<h3 class="my-3">Update Now</h3>
+
+<form asp-action="Update">
+
+    <input name="Id" type="hidden" placeholder="ID" value="@Model.Id" /><br /><br />
+    <span class="font-weight-bold">Name:</span><br />
+    <input name="Name" type="text" placeholder="Full Name" value="@Model.Name" /><br /><br />
+    <span class="font-weight-bold">Email:</span><br />
+    <input name="Email" type="email" placeholder="email" value="@Model.Email" /><br /><br />
+    <span class="font-weight-bold">Phone:</span><br />
+    <input name="Phone" type="text" placeholder="Phone" value="@Model.Phone" /><br /><br />
+    <span class="font-weight-bold">BookingDate:</span><br />
+    <input name="BookingDate" type="date" placeholder="Date" value="@Model.BookingDate" /><br /><br />
+    <span class="font-weight-bold">Menu:</span><br />
+    <input name="Menu" type="text" placeholder="Menu" value="@Model.Menu" /><br /><br />
+    <span class="font-weight-bold">Dishes:</span><br />
+    <input name="Dishes" type="text" placeholder="Dishes" value="@Model.Dishes" /><br /><br />
+    <span class="font-weight-bold">Description:</span><br />
+    <input name="Description" type="text" placeholder="Discription" value="@Model.Description" /><br /><br />
+    <span class="font-weight-bold">Price:</span><br />
+    <input name="Price" type="number" placeholder="Price" value="@Model.Price" /><br /><br />
+    <input type="submit" value="Update" class="btn btn-rounded bg-success text-white" />
+    <input type="button" class="btn btn-rounded bg-primary text-white" value="Go Back"
+           onclick="location.href='@Url.Action("AllBookings", "Home")'" />
+</form>

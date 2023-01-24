@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\bin\Debug\net6.0\1-2-camelCase.exe
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\bin\Debug\net6.0\1-2-camelCase.deps.json
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\bin\Debug\net6.0\1-2-camelCase.runtimeconfig.json
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\bin\Debug\net6.0\1-2-camelCase.dll
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\bin\Debug\net6.0\1-2-camelCase.pdb
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\obj\Debug\net6.0\1-2-camelCase.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\obj\Debug\net6.0\1-2-camelCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\obj\Debug\net6.0\1-2-camelCase.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\obj\Debug\net6.0\1-2-camelCase.AssemblyInfo.cs
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\obj\Debug\net6.0\1-2-camelCase.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\obj\Debug\net6.0\1-2-camelCase.dll
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\obj\Debug\net6.0\refint\1-2-camelCase.dll
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\obj\Debug\net6.0\1-2-camelCase.pdb
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\obj\Debug\net6.0\1-2-camelCase.genruntimeconfig.cache
+C:\Users\shahb\source\repos\1-2-camelCase\1-2-camelCase\obj\Debug\net6.0\ref\1-2-camelCase.dll

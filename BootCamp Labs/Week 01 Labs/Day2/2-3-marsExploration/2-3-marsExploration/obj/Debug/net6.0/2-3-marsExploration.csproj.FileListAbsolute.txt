@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\bin\Debug\net6.0\2-3-marsExploration.exe
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\bin\Debug\net6.0\2-3-marsExploration.deps.json
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\bin\Debug\net6.0\2-3-marsExploration.runtimeconfig.json
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\bin\Debug\net6.0\2-3-marsExploration.dll
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\bin\Debug\net6.0\2-3-marsExploration.pdb
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\obj\Debug\net6.0\2-3-marsExploration.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\obj\Debug\net6.0\2-3-marsExploration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\obj\Debug\net6.0\2-3-marsExploration.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\obj\Debug\net6.0\2-3-marsExploration.AssemblyInfo.cs
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\obj\Debug\net6.0\2-3-marsExploration.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\obj\Debug\net6.0\2-3-marsExploration.dll
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\obj\Debug\net6.0\refint\2-3-marsExploration.dll
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\obj\Debug\net6.0\2-3-marsExploration.pdb
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\obj\Debug\net6.0\2-3-marsExploration.genruntimeconfig.cache
+C:\Users\shahb\source\repos\2-3-marsExploration\2-3-marsExploration\obj\Debug\net6.0\ref\2-3-marsExploration.dll

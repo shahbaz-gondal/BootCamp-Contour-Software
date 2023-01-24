@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\bin\Debug\net6.0\6-6-insertAtTail.exe
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\bin\Debug\net6.0\6-6-insertAtTail.deps.json
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\bin\Debug\net6.0\6-6-insertAtTail.runtimeconfig.json
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\bin\Debug\net6.0\6-6-insertAtTail.dll
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\bin\Debug\net6.0\6-6-insertAtTail.pdb
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\obj\Debug\net6.0\6-6-insertAtTail.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\obj\Debug\net6.0\6-6-insertAtTail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\obj\Debug\net6.0\6-6-insertAtTail.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\obj\Debug\net6.0\6-6-insertAtTail.AssemblyInfo.cs
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\obj\Debug\net6.0\6-6-insertAtTail.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\obj\Debug\net6.0\6-6-insertAtTail.dll
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\obj\Debug\net6.0\refint\6-6-insertAtTail.dll
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\obj\Debug\net6.0\6-6-insertAtTail.pdb
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\obj\Debug\net6.0\6-6-insertAtTail.genruntimeconfig.cache
+C:\Users\shahb\source\repos\6-6-insertAtTail\6-6-insertAtTail\obj\Debug\net6.0\ref\6-6-insertAtTail.dll

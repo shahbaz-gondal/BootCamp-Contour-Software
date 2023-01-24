@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculator</title>
+</head>
+<body>
+    <div id="rapper">
+        <div id="toprapper">
+            <h3>CASIO</h3>
+            <input class="displaybox" placeholder="Enter Question(only buttons works)" type="text" id="textarea" disabled/>
+            <input class="displaybox" placeholder="Result" type="text" id="result" disabled/>
+        </div>
+        <hr>
+        <div id="bottomrapper">
+            <div id="buttonrapper">
+                <input type="button" id="button" value="1" onclick="display('1')" />
+                <input type="button" id="button" value="2" onclick="display('2')" />
+                <input type="button" id="button" value="3" onclick="display('3')" />
+                <input type="button" id="clearbutton" value="C" onclick="clearScreen()" />
+            </div>
+            <div id="buttonrapper">
+                <input type="button" id="button" value="4" onclick="display('4')" />
+                <input type="button" id="button" value="5" onclick="display('5')" />
+                <input type="button" id="button" value="6" onclick="display('6')" />
+                <input type="button" id="lastbutton" value="+" onclick="display('+')" />
+            </div>
+            <div id="buttonrapper">
+                <input type="button" id="button" value="7" onclick="display('7')" />
+                <input type="button" id="button" value="8" onclick="display('8')" />
+                <input type="button" id="button" value="9" onclick="display('9')" />
+                <input type="button" id="lastbutton" value="-" onclick="display('-')" />
+            </div>
+            <div id="buttonrapper">
+                <input type="button" id="button" value="0" onclick="display('0')" />
+                <input type="button" id="button" value="." onclick="display('.')" />
+                <input type="button" id="button" value="/" onclick="display('/')" />
+                <input type="button" id="lastbutton" value="*" onclick="display('*')" />
+            </div>
+            <div id="buttonrapper">
+                <input type="button" id="zerobutton" value="00" onclick="display('00')" />
+                <input type="button" id="equalbutton" value="=" onclick="calculate()" />
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="script.js" ></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+﻿@model StudentModel
+@{
+}
+<form asp-action="UpdateRecord">
+    <input name="Id" type="hidden" placeholder="ID" value="@Model.Id"/><br /><br />
+       <input name="Name" type="text" placeholder="Full Name" value="@Model.Name"/><br /><br />
+       <input name="Email" type="email" placeholder="email" value="@Model.Email"/><br /><br />
+       <input type="submit" value="Update" style="background-color:greenyellow"/>
+   </form>
+

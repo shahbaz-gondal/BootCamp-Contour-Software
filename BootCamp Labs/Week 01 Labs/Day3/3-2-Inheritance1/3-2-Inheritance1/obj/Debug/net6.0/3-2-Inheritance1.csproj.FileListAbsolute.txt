@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\obj\Debug\net6.0\3-2-Inheritance1.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\obj\Debug\net6.0\3-2-Inheritance1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\obj\Debug\net6.0\3-2-Inheritance1.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\obj\Debug\net6.0\3-2-Inheritance1.AssemblyInfo.cs
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\obj\Debug\net6.0\3-2-Inheritance1.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\bin\Debug\net6.0\3-2-Inheritance1.exe
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\bin\Debug\net6.0\3-2-Inheritance1.deps.json
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\bin\Debug\net6.0\3-2-Inheritance1.runtimeconfig.json
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\bin\Debug\net6.0\3-2-Inheritance1.dll
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\bin\Debug\net6.0\3-2-Inheritance1.pdb
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\obj\Debug\net6.0\3-2-Inheritance1.dll
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\obj\Debug\net6.0\refint\3-2-Inheritance1.dll
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\obj\Debug\net6.0\3-2-Inheritance1.pdb
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\obj\Debug\net6.0\3-2-Inheritance1.genruntimeconfig.cache
+C:\Users\shahb\source\repos\3-2-Inheritance1\3-2-Inheritance1\obj\Debug\net6.0\ref\3-2-Inheritance1.dll

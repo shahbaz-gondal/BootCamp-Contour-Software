@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\bin\Debug\net6.0\1-2-superReducedString.exe
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\bin\Debug\net6.0\1-2-superReducedString.deps.json
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\bin\Debug\net6.0\1-2-superReducedString.runtimeconfig.json
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\bin\Debug\net6.0\1-2-superReducedString.dll
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\bin\Debug\net6.0\1-2-superReducedString.pdb
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\obj\Debug\net6.0\1-2-superReducedString.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\obj\Debug\net6.0\1-2-superReducedString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\obj\Debug\net6.0\1-2-superReducedString.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\obj\Debug\net6.0\1-2-superReducedString.AssemblyInfo.cs
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\obj\Debug\net6.0\1-2-superReducedString.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\obj\Debug\net6.0\1-2-superReducedString.dll
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\obj\Debug\net6.0\refint\1-2-superReducedString.dll
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\obj\Debug\net6.0\1-2-superReducedString.pdb
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\obj\Debug\net6.0\1-2-superReducedString.genruntimeconfig.cache
+C:\Users\shahb\source\repos\1-2-superReducedString\1-2-superReducedString\obj\Debug\net6.0\ref\1-2-superReducedString.dll

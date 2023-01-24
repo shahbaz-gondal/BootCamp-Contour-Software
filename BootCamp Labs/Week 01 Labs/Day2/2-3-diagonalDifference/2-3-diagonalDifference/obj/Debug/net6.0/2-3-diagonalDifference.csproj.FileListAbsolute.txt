@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\bin\Debug\net6.0\2-3-diagonalDifference.exe
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\bin\Debug\net6.0\2-3-diagonalDifference.deps.json
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\bin\Debug\net6.0\2-3-diagonalDifference.runtimeconfig.json
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\bin\Debug\net6.0\2-3-diagonalDifference.dll
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\bin\Debug\net6.0\2-3-diagonalDifference.pdb
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\obj\Debug\net6.0\2-3-diagonalDifference.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\obj\Debug\net6.0\2-3-diagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\obj\Debug\net6.0\2-3-diagonalDifference.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\obj\Debug\net6.0\2-3-diagonalDifference.AssemblyInfo.cs
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\obj\Debug\net6.0\2-3-diagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\obj\Debug\net6.0\2-3-diagonalDifference.dll
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\obj\Debug\net6.0\refint\2-3-diagonalDifference.dll
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\obj\Debug\net6.0\2-3-diagonalDifference.pdb
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\obj\Debug\net6.0\2-3-diagonalDifference.genruntimeconfig.cache
+C:\Users\shahb\source\repos\2-3-diagonalDifference\2-3-diagonalDifference\obj\Debug\net6.0\ref\2-3-diagonalDifference.dll

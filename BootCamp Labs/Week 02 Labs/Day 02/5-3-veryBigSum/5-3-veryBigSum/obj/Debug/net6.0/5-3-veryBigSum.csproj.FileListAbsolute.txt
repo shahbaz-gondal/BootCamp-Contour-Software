@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\bin\Debug\net6.0\5-3-veryBigSum.exe
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\bin\Debug\net6.0\5-3-veryBigSum.deps.json
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\bin\Debug\net6.0\5-3-veryBigSum.runtimeconfig.json
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\bin\Debug\net6.0\5-3-veryBigSum.dll
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\bin\Debug\net6.0\5-3-veryBigSum.pdb
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\obj\Debug\net6.0\5-3-veryBigSum.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\obj\Debug\net6.0\5-3-veryBigSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\obj\Debug\net6.0\5-3-veryBigSum.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\obj\Debug\net6.0\5-3-veryBigSum.AssemblyInfo.cs
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\obj\Debug\net6.0\5-3-veryBigSum.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\obj\Debug\net6.0\5-3-veryBigSum.dll
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\obj\Debug\net6.0\refint\5-3-veryBigSum.dll
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\obj\Debug\net6.0\5-3-veryBigSum.pdb
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\obj\Debug\net6.0\5-3-veryBigSum.genruntimeconfig.cache
+C:\Users\shahb\source\repos\5-3-veryBigSum\5-3-veryBigSum\obj\Debug\net6.0\ref\5-3-veryBigSum.dll

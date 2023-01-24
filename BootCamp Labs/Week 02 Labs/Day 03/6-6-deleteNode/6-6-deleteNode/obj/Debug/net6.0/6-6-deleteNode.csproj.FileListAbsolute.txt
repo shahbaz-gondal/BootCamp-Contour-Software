@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\obj\Debug\net6.0\6-6-deleteNode.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\obj\Debug\net6.0\6-6-deleteNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\obj\Debug\net6.0\6-6-deleteNode.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\obj\Debug\net6.0\6-6-deleteNode.AssemblyInfo.cs
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\obj\Debug\net6.0\6-6-deleteNode.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\bin\Debug\net6.0\6-6-deleteNode.exe
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\bin\Debug\net6.0\6-6-deleteNode.deps.json
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\bin\Debug\net6.0\6-6-deleteNode.runtimeconfig.json
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\bin\Debug\net6.0\6-6-deleteNode.dll
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\bin\Debug\net6.0\6-6-deleteNode.pdb
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\obj\Debug\net6.0\6-6-deleteNode.dll
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\obj\Debug\net6.0\refint\6-6-deleteNode.dll
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\obj\Debug\net6.0\6-6-deleteNode.pdb
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\obj\Debug\net6.0\6-6-deleteNode.genruntimeconfig.cache
+C:\Users\shahb\source\repos\6-6-deleteNode\6-6-deleteNode\obj\Debug\net6.0\ref\6-6-deleteNode.dll

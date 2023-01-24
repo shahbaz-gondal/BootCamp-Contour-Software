@@ -1,0 +1,44 @@
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\SQL ADO.Net.exe
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\SQL ADO.Net.deps.json
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\SQL ADO.Net.runtimeconfig.json
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\SQL ADO.Net.dll
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\SQL ADO.Net.pdb
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.AssemblyInfo.cs
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.csproj.CopyComplete
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.dll
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\refint\SQL ADO.Net.dll
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.pdb
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.genruntimeconfig.cache
+C:\Users\shahb\source\repos\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\ref\SQL ADO.Net.dll
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\SQL ADO.Net.exe
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\SQL ADO.Net.deps.json
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\SQL ADO.Net.runtimeconfig.json
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\SQL ADO.Net.dll
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\SQL ADO.Net.pdb
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.csproj.AssemblyReference.cache
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.GeneratedMSBuildEditorConfig.editorconfig
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.AssemblyInfoInputs.cache
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.AssemblyInfo.cs
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.csproj.CoreCompileInputs.cache
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.csproj.CopyComplete
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.dll
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\refint\SQL ADO.Net.dll
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.pdb
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\SQL ADO.Net.genruntimeconfig.cache
+E:\BootCamp Contour Software\Assignments\Console CRUD with ADO.NET\SQL ADO.Net\SQL ADO.Net\obj\Debug\net6.0\ref\SQL ADO.Net.dll

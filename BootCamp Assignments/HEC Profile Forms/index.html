@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>eportal.hec.gov.pk/myProfile</title>
+</head>
+<body>
+  <div class="container">
+    <h2 class="darkblue">Higher Education Commission, Pakistan</h2>
+      <p>Facilitating Institutes of Higher Learning to serve as an Engine of Growth for the Socio-Economic Development of Pakistan</p>
+      <div class="text-white bgblue mb-3">
+        <span class="ml-3">My Profile</span>
+      </div>
+    <form>
+      <div class="mx-3 mb-5 pb-5" id="tabborder">
+        <ul class="nav nav-tabs">
+          <li class="bgcolor" id="detstab"><a class="m-5 atxt" data-toggle="tab" href="#details">Personal Details</a></li>
+          <li class="bgcolor" id="contab"><a class="m-5 atxt" data-toggle="tab" href="#contact">Contact</a></li>
+          <li class="bgcolor" id="edutab"><a class="m-5 atxt" data-toggle="tab" href="#education">Education</a></li>
+          <li class="bgcolor" id="emtab"><a class="m-5 atxt" data-toggle="tab" href="#employment">Employment</a></li>
+          <li class="bgcolor" id="biotab"><a class="m-5 atxt" data-toggle="tab" href="#bio">Your Information</a></li>
+        </ul>
+        
+<!--Personal Details block's content Started-->
+
+        <div class="tab-content">
+          <div id="details" class="tab-pane">
+            <h6 class="darkblue font-weight-bold ml-3 mr-3 mt-4">Tell us about Yourself!<hr></h6>
+            <div class="row ml-1">
+              <div class="col">
+                <div class="row">
+                  <div class="col"><label class="col-form-label">Title<span style="color: red;">*</span></label></div>
+                <div class="col">
+                  <select id="titled" class="form-select inputwidth" required>
+                    <option value=""></option>
+                    <option value="Dr.">Dr.</option>
+                    <option value="Engr.">Engr.</option>
+                    <option value="Mr.">Mr.</option>
+                    <option value="Ms.">Ms.</option>
+                  </select>
+                </div>
+                </div>
+                <div class="row">
+                  <div class="col"><label class="col-form-label">First Name<span style="color: red;">*</span></label></div>
+                  <div class="col"><input id="fname" class="inputwidth" type="text" required/></div>
+                </div>
+                <div class="row">
+                  <div class="col"><label class="col-form-label">Middle Name</label></div>
+                  <div class="col"><input id="mname" class="inputwidth" type="text" /></div>
+                </div>
+                <div class="row">
+                  <div class="col"><label class="col-form-label">Last Name<span style="color: red;">*</span></label></div>
+                  <div class="col"><input id="lname" class="inputwidth" type="text" required/></div>
+                </div>
+                <div class="row">
+                  <div class="col check"><label class="col-form-label">Marital Status<span style="color: red;">*</span></label></div>
+                  <div class="col">
+                    <div class="form-check">
+                      <input class="form-check-input" type="radio" name="maritalStatus" id="ms1" value="Married" required>
+                      <label class="form-check-label" for="ms1">Married</label>
+                    </div>
+                    <div class="form-check">
+                      <input class="form-check-input" type="radio" id="ms2" name="maritalStatus" value="Separated/Divorced" required>
+                      <label class="form-check-label" for="ms2">Separated/Divorced</label>
+                    </div>
+                    <div class="form-check">
+                      <input class="form-check-input" type="radio" id="ms3" name="maritalStatus" value="Single" required>
+                      <label class="form-check-label" for="ms3">Single</label>
+                    </div>
+                    <div  class="form-check">
+                      <input class="form-check-input" type="radio" id="ms4" name="maritalStatus" value="Widowed" required>
+                      <label class="form-check-label" for="ms4">Widowed</label>
+                    </div>
+                  </div>
+                </div>
+                <br>
+                  <div class="row">
+                    <div class="col"><label class="col-form-label">Gender<span style="color: red;">*</span></label></div>
+                    <div class="col form-check">
+                      <div class="form-check-inline">
+                        <input class="form-check-input" type="radio" name="gender" id="g1" value="Male" required>
+                        <label class="form-check-label" for="g1">Male</label>
+                      </div>
+                      <div class="form-check-inline">
+                        <input class="form-check-input" type="radio" name="gender" id="g2" value="Female" required>
+                        <label class="form-check-label" for="g2">Female</label>
+                      </div>
+                      <div class="form-check-inline">
+                        <input class="form-check-input" type="radio" name="gender" id="g3" value="Other" required>
+                        <label class="form-check-label" for="g3">Other</label>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <img src="Muhammad Shahbaz.jpg" alt="profile picture" width="200px" height="200px">
+                </div>
+              </div>
+                <h6 class="darkblue font-weight-bold ml-3 mr-3 mt-4">Biographical Information<hr></h6>
+              <div class="row ml-1">
+                <div class="col-3"><label class="col-form-label">Date of Birth<span style="color: red;">*</span></label></div>
+                <div class="col-3"><input class="inputwidth" id="date" type="date" required/></div>
+                <div class="col-3"><label class="col-form-label">Domicile Province<span style="color: red;">*</span></label></div>
+                <div class="col-3"><input class="inputwidth" id="province" type="text" required/></div>
+              </div>
+              <div class="row ml-1">
+                <div class="col-6"><input style="width: 66%;" type="text" id="totalage" disabled><input type="button" class="greenbtn" style="width: 25%;"  value="Click to find Age"  onclick="age()"></div>
+                <div class="col-3"></div><div class="col-3"></div>
+              </div>
+              <div class="row ml-1 mt-1">
+                <div class="col-3"><label class="col-form-label">Country of Birth<span style="color: red;">*</span></label></div>
+                <div class="col-3"><input class="inputwidth" id="country" type="text" required/></div>
+                <div class="col-3"><label class="col-form-label">Domicile City<span style="color: red;">*</span></label></div>
+                <div class="col-3"><input class="inputwidth" id="city" type="text" required/></div>
+              </div>
+              <div class="row ml-1">
+                <div class="col-3"><label class="col-form-label">Religion<span style="color: red;">*</span></label></div>
+                <div class="col-3"><input class="inputwidth" type="text" id="religion" required/></div>
+                <div class="col-3"><label class="col-form-label">Domicile District<span style="color: red;">*</span></label></div>
+                <div class="col-3"><input class="inputwidth" id="district" type="text" required/></div>
+              </div>
+              <h6 class="darkblue font-weight-bold ml-3 mr-3 mt-4">National ID<span style="color: red;">*</span><hr></h6>
+              <div class="mx-3 my-4 idinfo"><p class="ml-3 mt-3 py-1">Please enter your identity information</p></div>
+              <div class="mx-3" id="idblock">
+                <div class="row" id="idrow">
+                  <div class="col" id="idcolorfirst"><label class="col-form-label">Country</label></div>
+                  <div class="col" id="idcolormid"><label class="col-form-label">Type</label></div>
+                  <div class="col" id="idcolormid"><label class="col-form-label">Identification Number</label></div>
+                </div>
+                <div class="row py-1" id="idrow">
+                  <div class="col"><input class="inputwidth" type="text" required/></div>
+                  <div class="col">
+                    <select class="form-select inputwidth" required>
+                      <option></option>
+                      <option>B-Form</option>
+                      <option>CNIC</option>
+                    </select>
+                  </div>
+                  <div class="col"><input class="inputwidth" id="cnic" type="text" required/></div>
+                </div>
+              </div>
+              <h6 class="darkblue font-weight-bold ml-3 mr-3 mt-4">Father's Information<hr></h6>
+              <div class="row mx-3">
+                <div class="col"><label class="col-form-label">Father's Name<span style="color: red;">*</span></label> </div>
+                <div class="col"><input class="inputwidth" id="fathername" type="text" required/></div>
+                <div class="col"><label class="col-form-label">Occupation</label></div>
+                <div class="col"><input class="inputwidth" type="text" /></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col"><label class="col-form-label">CNIC</label></div>
+                <div class="col">
+                  <input class="inputwidth" id="idnum" type="text" />
+                  <p style="font-size: xx-small;">e.g. 1234512345670</p>
+                </div>
+                <div class="col"></div>
+                <div class="col">
+                  <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="ms1">
+                    <label class="form-check-label" for="ms1">Currently Employed</label>
+                  </div>
+                </div>
+              </div>
+              <div class="row mx-3">
+                <div class="col"><label class="col-form-label">Status<span style="color: red;">*</span></label></div>
+                <div class="col form-check">
+                  <div class="form-check-inline">
+                    <input class="form-check-input" type="radio" name="status" id="s1" required>
+                    <label class="form-check-label" for="s1">Alive</label>
+                  </div>
+                  <div class="form-check-inline">
+                    <input class="form-check-input" type="radio" name="status" id="s2" required>
+                    <label class="form-check-label" for="s2">Deceased</label>
+                  </div>
+                </div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <br><br><br>
+              <button type="button" id="btnNextc" class="greenbtn float-right mx-3">Next</button>
+              <button type="submit" class="greenbtn float-right" onclick="storedetails()">Save</button>
+            </div>
+            
+
+<!--Personal Details block's content Ended-->
+
+<!--Contact block's content Started-->
+
+            <div id="contact" class="tab-pane">
+              <div class="mx-3 my-4 idinfo">
+                <p class="ml-3 mt-3 py-1">Please use this section to add/update your address information</p>
+              </div>
+              <h6 class="darkblue font-weight-bold ml-3 mr-3 mt-4">
+                Permanent Address Details
+                <hr>
+              </h6>
+              <div class="row mx-3">
+                <div class="col">
+                <label class="col-form-label">Type</label>
+                </div>
+                <div class="col">
+                  <p style="font-size: small; margin-top: 10px;">Permanent</p>
+                </div>
+                <div class="col">
+                  <label class="col-form-label">Address<span style="color: red;">*</span></label>
+                  </div>
+                  <div class="col">
+                    <input class="inputwidth" type="text" required/>
+                  </div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                <label class="col-form-label">Country<span style="color: red;">*</span></label>
+                </div>
+                <div class="col">
+                  <input class="inputwidth" type="text" required/>
+                </div>
+                <div class="col">
+                  <label class="col-form-label">Postal Code</label>
+                  </div>
+                  <div class="col">
+                    <input class="inputwidth" type="text" />
+                  </div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                <label class="col-form-label">City<span style="color: red;">*</span></label>
+                </div>
+                <div class="col">
+                  <input class="inputwidth" type="text" required/>
+                </div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                <label class="col-form-label">District<span style="color: red;">*</span></label>
+                </div>
+                <div class="col">
+                  <input class="inputwidth" type="text" required/>
+                </div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <h6 class="darkblue font-weight-bold ml-3 mr-3 mt-4">
+                Mailing Address Details
+                <hr>
+              </h6>
+              <div class="row mx-3">
+                <div class="col">
+                  <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="ma1">
+                    <label class="form-check-label" for="ma1">Same as Permanent Address</label>
+                  </div>
+                </div>
+                <div class="col"></div>
+                <div class="col">
+                  <label class="col-form-label">Address<span style="color: red;">*</span></label>
+                </div>
+                <div class="col">
+                  <input class="inputwidth" id="mailingaddress" type="text" required/>
+                </div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                    <label class="col-form-label">Type</label>
+                </div>
+                <div class="col">
+                  <p style="font-size: small; margin-top: 10px;">Mailing</p>
+                </div>
+                <div class="col">
+                  <label class="col-form-label">Postal Code</label>
+                </div>
+                <div class="col">
+                  <input class="inputwidth" type="text">
+                </div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                <label class="col-form-label">Country<span style="color: red;">*</span></label>
+                </div>
+                <div class="col">
+                  <input class="inputwidth" type="text" required/>
+                </div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                <label class="col-form-label">City<span style="color: red;">*</span></label>
+                </div>
+                <div class="col">
+                  <input class="inputwidth" type="text" required/>
+                </div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                <label class="col-form-label">District<span style="color: red;">*</span></label>
+                </div>
+                <div class="col">
+                  <input class="inputwidth" type="text" required/>
+                </div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <h6 class="darkblue font-weight-bold ml-3 mr-3 mt-4">
+                Current Address Details
+                <hr>
+              </h6>
+              <div class="row mx-3">
+                <div class="col">
+                  <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="ma1">
+                    <label class="form-check-label" for="ma1">Same as Permanent Address</label>
+                  </div>
+                </div>
+                <div class="col"></div>
+                <div class="col">
+                  <label class="col-form-label">Address</label>
+                </div>
+                <div class="col">
+                  <input class="inputwidth" type="text">
+                </div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                <label class="col-form-label">Type</label>
+                </div>
+                <div class="col">
+                  <p style="font-size: small; margin-top: 10px;">Current</p>
+                </div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                <label class="col-form-label">Country</label>
+                </div>
+                <div class="col">
+                  <input class="inputwidth" type="text">
+                </div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                <label class="col-form-label">City</label>
+                </div>
+                <div class="col">
+                  <input class="inputwidth" type="text">
+                </div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <h6 class="darkblue font-weight-bold ml-3 mr-3 mt-4">
+                Contact
+                <hr>
+              </h6>
+              <div class="mx-3 my-4 idinfo">
+                <p class="ml-3 mt-3 py-1">Please use this section to update your contact informationn</p>
+              </div>
+              <p class="mx-3" style="font-size: x-small;">Email: username@provider.com, Cell Phone: (Operator Code)(Phone Number)</p>
+              <div class="mx-3" id="idblock">
+                <div class="row" id="idrow">
+                  <div class="col" id="idcolorfirst">
+                    <label class="col-form-label">Contact Type</label>
+                  </div>
+                  <div class="col" id="idcolormid">
+                    <label class="col-form-label">Contact Description</label>
+                  </div>
+                </div>
+                <div class="row py-1" id="idrow">
+                  <div class="col">
+                    <select class="form-select inputwidth" required/>
+                      <option></option>
+                      <option>Cell Phone</option>
+                    </select>
+                  </div>
+                  <div class="col">
+                    <input class="inputwidth" id="cellphone" type="text" required/>
+                  </div>
+                </div>
+              </div>
+              <div class="mx-3" id="idblock">
+                <div class="row" id="idrow">
+                  <div class="col" id="idcolorfirst">
+                    <label class="col-form-label">Contact Type</label>
+                  </div>
+                  <div class="col" id="idcolormid">
+                    <label class="col-form-label">Contact Description</label>
+                  </div>
+                </div>
+                <div class="row py-1" id="idrow">
+                  <div class="col">
+                    <select class="form-select inputwidth" required/>
+                      <option></option>
+                      <option>Email</option>
+                    </select>
+                  </div>
+                  <div class="col">
+                    <input class="inputwidth" id="email" type="text" required/>
+                  </div>
+                </div>
+              </div>
+              <h6 class="darkblue font-weight-bold ml-3 mr-3 mt-4">
+                Social Contacts
+                <hr>
+              </h6>
+              <div class="mx-3" id="idblock">
+                <div class="row" id="idrow">
+                  <div class="col" id="idcolorfirst">
+                    <label class="col-form-label">Contact Type</label>
+                  </div>
+                  <div class="col" id="idcolormid">
+                    <label class="col-form-label">Contact Description</label>
+                  </div>
+                </div>
+                <div class="row py-1" id="idrow">
+                  <div class="col">
+                    <select class="form-select inputwidth">
+                      <option></option>
+                      <option>Linkedin</option>
+                    </select>
+                  </div>
+                  <div class="col">
+                    <input class="inputwidth" id="sociallink" type="text" />
+                  </div>
+                </div>
+              </div>
+              <br><br><br>
+              <button type="button" id="btnNexted" class="greenbtn float-right mx-3">Next</button>
+              <button type="submit" class="greenbtn float-right" onclick="storecontact()">Save</button>
+              <button type="button" id="btnPred" class="greenbtn float-right mx-3">Previous</button>
+            </div>
+
+<!--Contact block's content Ended-->
+
+<!--Education block's content Started-->
+
+            <div id="education" class="tab-pane">
+              <h6 class="darkblue font-weight-bold mx-3 mt-5">
+                Tell Us About Your Education!
+                <hr>
+              </h6>
+              <div class="mx-3 my-4 idinfo">
+                <p class="ml-3 mt-3 py-1">Please enter your qualifications in lowest to highest (Chronological). <br />
+                  Please select "Add/Update to List" button after adding information to save the record.</p>
+              </div>
+              <div class="mx-3 my-4 idinfo">
+                <p class="ml-3 mt-3 py-1">If you can’t find your University, Campus, Department or Degree Program, please contact your University focal Person to get it entered. <br />
+                  For the List of University Focal person please Click here</p>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                  <h6 class="darkblue font-weight-bold mt-4">
+                    Qualification Details
+                  </h6>
+                </div>
+                <div class="col">
+                  <h6 class="darkblue font-weight-bold mt-4">
+                    Degree/Certificate Details
+                  </h6>
+                </div>
+              </div>
+              <div class="mx-3">
+                <hr>
+              </div>
+              <div class="row mx-3">
+                <div class="col"><label class="col-form-label">Qualification Level<span style="color: red;">*</span></label></div>
+                <div class="col"><input class="inputwidth" id="qlevel" type="text" required/></div>
+                <div class="col"><label class="col-form-label">Degree Name</label></div>
+                <div class="col"><input class="inputwidth" id="degree" type="text"></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col"></div>
+                <div class="col">
+                  <input class="form-check-input" type="checkbox" id="ie1">
+                  <label class="form-check-label" for="en1">Incomplete Education</label>
+                </div>
+                <div class="col">
+                  <label class="col-form-label">Registration/Roll Number<span style="color: red;">*</span></label>
+                </div>
+                <div class="col">
+                  <input class="inputwidth" type="text" required/>
+                </div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                  <label class="form-check-label">Start Date<span style="color: red;">*</span></label>
+                </div>
+                <div class="col">
+                  <input type="date" required/>
+                </div>
+                <div class="col">
+                  <label class="col-form-label">Education System</label>
+                </div>
+                <div class="col">
+                  <select class="form-select inputwidth" />
+                  <option></option>
+                    <option>Annual</option>
+                    <option>Semester</option>
+                    <option>Term</option>
+                  </select>
+                </div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                  <div class="row">
+                    <div class="col"></div>
+                    <div class="col">
+                      <input class="form-check-input" type="checkbox" id="ce1">
+                      <label class="form-check-label" for="cn1">Currently Enrolled</label>
+                    </div>
+                  </div>
+                  <div class="row mx-1">
+                    <div class="col">
+                      <label class="form-check-input">End Date<span style="color: red;">*</span></label>
+                    </div>
+                    <div class="col">
+                      <input type="date" required/>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <h6 class="darkblue font-weight-bold mt-4">
+                    Academic Performance Details
+                    <hr>
+                  </h6>
+                </div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                  <h6 class="darkblue font-weight-bold mt-4">
+                    Degree / Certificate Awarding Institute Details
+                    <hr>
+                  </h6>
+                </div>
+                <div class="col">
+                  <div class="row mx-1">
+                    <div class="col form-check">
+                      <label class="form-check-input">Grading System<span style="color: red;">*</span></label>
+                    </div>
+                    <div class="col">
+                      <div class="form-check-inline">
+                        <input class="form-check-input" type="radio" name="gradingSystem" value="CGPA" id="gs1" required/>
+                        <label class="form-check-label" for="gs1">CGPA</label>
+                      </div>
+                      <div class="form-check-inline">
+                        <input class="form-check-input" type="radio" name="gradingSystem" value="Marks" id="gs2" required/>
+                        <label class="form-check-label" for="gs2">Marks</label>
+                      </div>
+                      <div class="form-check-inline">
+                        <input class="form-check-input" type="radio" name="gradingSystem" value="Percentage" id="gs3" required/>
+                        <label class="form-check-label" for="gs3">Percentage</label>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col">
+                      <label class="form-check-input mx-1">Total CGPA<span style="color: red;">*</span></label>
+                    </div>
+                    <div class="col">
+                      <select class="form-select inputwidth" id="total" required/>
+                      <option value=""></option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <br>
+              <div class="row mx-3">
+                <div class="col"><label class="form-check-input mx-1">Country<span style="color: red;">*</span></label></div>
+                <div class="col"><input type="text" required/></div>
+                <div class="col"><label class="form-check-input mx-1">Obtained Percentage<span style="color: red;">*</span></label></div>
+                <div class="col"><input type="text" required/></div>
+              </div>
+              <div class="row mx-3 mt-1">
+                <div class="col"><label class="form-check-input mx-1">City</label></div>
+                <div class="col"><input type="text"></div>
+                <div class="col"><label class="form-check-input mx-1">Obtained CGPA</label></div>
+                <div class="col"><input type="text" id="obtained"></div>
+              </div>
+              <div class="row mx-3 mt-1">
+                <div class="col"><label class="form-check-input mx-1">Degree Awarding Institute</label></div>
+                <div class="col"><input type="text"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3 mt-1">
+                <div class="col"><label class="form-check-input mx-1">University Name on Degree<span style="color: red;">*</span></label></div>
+                <div class="col"><input type="text" id="university" required/></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3 mt-1">
+                <div class="col"><label class="form-check-input mx-1">School/College</label></div>
+                <div class="col"><input type="text"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3 mt-1">
+                <div class="col"></div>
+                <div class="col"><p style="font-size: small;">Same as written on Awarded Degree</p></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3 mt-1">
+                <div class="col"><label class="form-check-input mx-1">Program Title</label></div>
+                <div class="col"><input type="text"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3 mt-1">
+                <div class="col"><label class="form-check-input mx-1">Campus</label></div>
+                <div class="col"><input type="text"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3 mt-1">
+                <div class="col"><label class="form-check-input mx-1">Department</label></div>
+                <div class="col"><input type="text"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <br>
+              <div class="row mx-3 mt-1">
+                <div class="col"><label class="form-check-input mx-1">Degree Type</label></div>
+                <div class="col"><input type="text"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3 mt-1">
+                <div class="col"><label class="form-check-input mx-1">Session Type</label></div>
+                <div class="col"><input type="text"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3 mt-1">
+                <div class="col"><label class="form-check-input mx-1">Discipline</label></div>
+                <div class="col"><input type="text"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3 mt-1">
+                <div class="col"><label class="form-check-input mx-1">Major</label></div>
+                <div class="col"><input type="text"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3 mt-1">
+                <div class="col"><label class="form-check-input mx-1">Area of Research</label></div>
+                <div class="col"><input type="text"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <br><br><br>
+              <button type="button" id="btnNextem" class="greenbtn float-right mx-3">Next</button>
+              <button type="submit" class="greenbtn float-right" onclick="storeeducation()">Save</button>
+              <button type="button" id="btnPrec" class="greenbtn float-right mx-3">Previous</button>
+            </div>
+
+<!--Education block's content Ended-->
+
+<!--Employment block's content Started-->
+
+            <div id="employment" class="tab-pane">
+              <div class="mx-3 my-5 idinfo">
+                <p class="ml-3 mt-4 py-1">Please select “Add/Update to List” button after adding information to save the record</p>
+              </div>
+              <div class="row mx-3">
+                <div class="col"><h6 class="darkblue font-weight-bold mt-4">Employer Details</h6></div>
+                <div class="col"><h6 class="darkblue font-weight-bold mt-4">Job Details</h6></div>
+              </div>
+              <div class="mx-3"><hr></div>
+              <div class="row mx-3">
+                <div class="col"><label class="col-form-label">Organization Type<span style="color: red;">*</span></label></div>
+                <div class="col form-check">
+                  <div class="form-check-inline mt-2">
+                    <input class="form-check-input" type="radio" name="organizationType" value="Academic" id="ot1" required/>
+                    <label class="form-check-label" for="ot1">Academic</label>
+                  </div>
+                  <div class="form-check-inline mt-2">
+                    <input class="form-check-input" type="radio" name="organizationType" value="Professional" id="ot2" required/>
+                    <label class="form-check-label" for="ot2">Professional</label>
+                  </div>
+                </div>
+                <div class="col"><label class="col-form-label">Job Type<span style="color: red;">*</span></label></div>
+                <div class="col"><input class="inputwidth" type="text" required/></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col"><label class="col-form-label">Country<span style="color: red;">*</span></label></div>
+                <div class="col"><input class="inputwidth" type="text" required/></div>
+                <div class="col"><label class="col-form-label">Job Title/Designation<span style="color: red;">*</span></label></div>
+                <div class="col"><input class="inputwidth" id="job" type="text" required/></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col"><label class="col-form-label">Sector<span style="color: red;">*</span></label></div>
+                <div class="col"><input class="inputwidth" type="text" required/></div>
+                <div class="col"><label class="col-form-label">Field of Work<span style="color: red;">*</span></label></div>
+                <div class="col"><input class="inputwidth" type="text" required/></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col"><label class="col-form-label">Catogary<span style="color: red;">*</span></label></div>
+                <div class="col"><input class="inputwidth" type="text" required/></div>
+                <div class="col"><label class="col-form-label">Career Level<span style="color: red;">*</span></label></div>
+                <div class="col"><input class="inputwidth" id="level" type="text" required/></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col"><label class="col-form-label">Employer Name<span style="color: red;">*</span></label></div>
+                <div class="col"><input class="inputwidth" type="text" required/></div>
+                <div class="col"><label class="col-form-label">Start Date<span style="color: red;">*</span></label></div>
+                <div class="col"><input class="inputwidth" type="date" required/></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col"><h6 class="darkblue font-weight-bold mt-4">Employment Address<hr /></h6>
+                </div>
+                <div class="col">
+                  <div class="row">
+                    <div class="col"></div>
+                    <div class="col">
+                      <div class="form-check">
+                        <br>
+                        <input class="form-check-input" type="checkbox" id="ms1">
+                        <label class="form-check-label" for="ms1">Currently Working here?</label>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row mx-3">
+                <div class="col"><label class="col-form-label">Country of Employment<span style="color: red;">*</span></label></div>
+                <div class="col"><input class="inputwidth" id="empcountry" type="text" required/></div>
+                <div class="col"><label class="col-form-label">End Date</label></div>
+                <div class="col"><input class="inputwidth" type="date"></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col">
+                <div class="row">
+                  <div class="col"><label class="col-form-label">City of Employment<span style="color: red;">*</span></label></div>
+                  <div class="col"><input class="inputwidth" id="empcity" type="text" required/></div>
+                </div>
+                <div class="row">
+                  <div class="col"><label class="col-form-label">Address</label></div>
+                  <div class="col"><input class="inputwidth" id="empaddress" type="text"></div>
+                </div>
+                <div class="row">
+                  <div class="col"><label class="col-form-label">Contact Number</label></div>
+                  <div class="col"><input class="inputwidth" type="text"></div>
+                </div>
+                </div>
+                <div class="col">
+                  <div class="row">
+                    <div class="col"><label class="col-form-label">Job Details</label></div>
+                    <div class="col"><input style="height: 100px; width: 80%;" type="text"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="row mx-3">
+                <div class="col"></div>
+                <div class="col"><p style="font-size:x-small;">e.g. +923331234567</p></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col"><label class="col-form-label">Office Email</label></div>
+                <div class="col"><input class="inputwidth" type="text"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col"></div>
+                <div class="col"><p style="font-size: x-small;">abc@xyz.com</p></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>
+              <div class="row mx-3">
+                <div class="col"><label class="col-form-label">Website</label></div>
+                <div class="col"><input class="inputwidth" type="text"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div><br><br><br>
+              <button type="button" id="btnNextbio" class="greenbtn float-right mx-3">Check Your Profile</button>
+              <button type="submit" class="greenbtn float-right" onclick="storeemployment()">Save</button>
+              <button type="button" id="btnPreed" class="greenbtn float-right mx-3">Previous</button>
+          </div>
+
+<!--Employment block's content Ended-->
+
+<!--Bio block's content Started-->
+
+          <div id="bio" class="tab-pane">
+            
+            <div class="mx-3 my-5 idinfo">
+              <p class="ml-3 mt-4 py-1">Your All Information is Listed here.</p>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><h6 class="darkblue font-weight-bold fontsize mt-4">Bio Data</h6></div>
+              <div class="col"></div>
+            </div>
+            <div class="mx-3"><hr></div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">Full Name:</label></div>
+              <div class="col form-check"><span id="fullnameBio"></span></div>
+              <div class="col"><label class="col-form-label font-weight-bold">Marital Status:</label></div>
+              <div class="col"><span id="maritalstatusBio"></span></div>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">Gender:</label></div>
+              <div class="col"><span id="genderBio"></span></div>
+              <div class="col"><label class="col-form-label font-weight-bold">Religion:</label></div>
+              <div class="col"><span id="religionBio"></span></div>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">Date of Birth:</label></div>
+              <div class="col"><span id="dateofbirthBio"></span></div>
+              <div class="col"><label class="col-form-label font-weight-bold">Age till Today:</label></div>
+              <div class="col"><span id="ageBio"></span></div>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">Country of Birth:</label></div>
+              <div class="col"><span id="countryBio"></span></div>
+              <div class="col"><label class="col-form-label font-weight-bold">Province:</label></div>
+              <div class="col"><span id="provinceBio"></span></div>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">District:</label></div>
+              <div class="col"><span id="districtBio"></span></div>
+              <div class="col"><label class="col-form-label font-weight-bold">City:</label></div>
+              <div class="col"><span id="cityBio"></span></div>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">Your CNIC:</label></div>
+              <div class="col"><span id="CNICBio"></span></div>
+              <div class="col"><label class="col-form-label font-weight-bold">Father Name:</label></div>
+              <div class="col"><span id="fatherBio"></span></div>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><h6 class="darkblue font-weight-bold fontsize mt-5">Contact Info</h6></div>
+              <div class="col"></div>
+            </div>
+            <div class="mx-3"><hr></div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">Contact Number:</label></div>
+              <div class="col"><span id="cellphoneBio"></span></div>
+              <div class="col"><label class="col-form-label font-weight-bold">Email:</label></div>
+              <div class="col"><span id="emailBio"></span></div>
+            </div>
+            <div class="row mx-3">
+              <div class="col">
+                <div class="row">
+                  <div class="col"><label class="col-form-label font-weight-bold">Mailing Address:</label></div>
+                  <div class="col"><span id="mailingaddressBio"></span></div>
+                  <div class="col"><label class="col-form-label font-weight-bold">Social Link:</label></div>
+                  <div class="col"><span id="socialLinkBio"></span></div>
+                </div>
+              </div>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><h6 class="darkblue font-weight-bold mt-5 fontsize">Educational Info</h6></div>
+              <div class="col"></div>
+            </div>
+            <div class="mx-3"><hr></div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">Qualification Level:</label></div>
+              <div class="col"><span id="qlevelBio"></span></div>
+              <div class="col"><label class="col-form-label font-weight-bold">Degree Name:</label></div>
+              <div class="col"><span id="degreeBio"></span></div>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">University Name:</label></div>
+              <div class="col"><span id="universityBio"></span></div>
+              <div class="col"><label class="col-form-label font-weight-bold">Grading Syatem:</label></div>
+              <div class="col"><span id="gradingsystemBio"></span></div>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">Total CGPA/Marks:</label></div>
+              <div class="col"><span id="totalBio"></span></div>
+              <div class="col"><label class="col-form-label font-weight-bold">Obtained CGPA/Marks:</label></div>
+              <div class="col"><span id="obtainedBio"></span></div>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><h6 class="darkblue font-weight-bold fontsize mt-5">Employment Info</h6></div><div class="col"></div>
+            </div>
+            <div class="mx-3"><hr></div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">Organization Type:</label></div>
+              <div class="col"><span id="orgtypeBio"></span></div>
+              <div class="col"><label class="col-form-label font-weight-bold">Organization Name:</label></div>
+              <div class="col"><span id="orgnameBio"></span></div>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">Job Title:</label></div>
+              <div class="col"><span id="jobBio"></span></div>
+              <div class="col"><label class="col-form-label font-weight-bold">Career Level:</label></div>
+              <div class="col"><span id="levelBio"></span></div>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">Country:</label></div>
+              <div class="col"><span id="empcountryBio"></span></div>
+              <div class="col"><label class="col-form-label font-weight-bold">City:</label></div>
+              <div class="col"><span id="empcityBio"></span></div>
+            </div>
+            <div class="row mx-3">
+              <div class="col"><label class="col-form-label font-weight-bold">Office Address:</label></div>
+              <div class="col"><span id="empaddressBio"></span></div>
+            </div>
+            <button type="button" id="btnPreem" class="greenbtn float-right mx-3">Previous</button>
+          </div>
+          
+<!--Bio block's content Ended-->
+        </div>
+    </div>
+</form>
+  <div class="mx-3 bgblue text-white text-center">
+    <p>Copyright 2022 © Higher Education Commission, Pakistan. All Rights Reserved</p>
+  </div>
+
+  <script src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/script.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

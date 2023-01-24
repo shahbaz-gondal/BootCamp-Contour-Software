@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\bin\Debug\net6.0\2-5-birthdayCakeCandles.exe
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\bin\Debug\net6.0\2-5-birthdayCakeCandles.deps.json
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\bin\Debug\net6.0\2-5-birthdayCakeCandles.runtimeconfig.json
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\bin\Debug\net6.0\2-5-birthdayCakeCandles.dll
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\bin\Debug\net6.0\2-5-birthdayCakeCandles.pdb
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\obj\Debug\net6.0\2-5-birthdayCakeCandles.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\obj\Debug\net6.0\2-5-birthdayCakeCandles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\obj\Debug\net6.0\2-5-birthdayCakeCandles.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\obj\Debug\net6.0\2-5-birthdayCakeCandles.AssemblyInfo.cs
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\obj\Debug\net6.0\2-5-birthdayCakeCandles.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\obj\Debug\net6.0\2-5-birthdayCakeCandles.dll
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\obj\Debug\net6.0\refint\2-5-birthdayCakeCandles.dll
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\obj\Debug\net6.0\2-5-birthdayCakeCandles.pdb
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\obj\Debug\net6.0\2-5-birthdayCakeCandles.genruntimeconfig.cache
+C:\Users\shahb\source\repos\2-5-birthdayCakeCandles\2-5-birthdayCakeCandles\obj\Debug\net6.0\ref\2-5-birthdayCakeCandles.dll

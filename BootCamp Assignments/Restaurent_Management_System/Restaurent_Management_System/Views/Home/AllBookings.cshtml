@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Restaurent_Management_System.Models.BookingModel>
+
+@{
+    ViewData["Title"] = "All Bookings Page";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>All Booking</title>
+    <style>
+        .tableDesign {
+            border: 1px solid Black;
+            padding-left:20px;
+            padding-right:20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h3 class="my-3">All Bookings are Listed</h3>
+    <div>
+        <br /><br />
+        <table>
+            <tr>
+                <th class="font-weight-bold tableDesign bg-danger text-white">ID</th>
+                <th class="font-weight-bold tableDesign bg-danger text-white">Name</th>
+                <th class="font-weight-bold tableDesign bg-danger text-white">Email</th>
+                <th class="font-weight-bold tableDesign bg-danger text-white">Phone</th>
+                <th class="font-weight-bold tableDesign bg-danger text-white">BookingDate</th>
+                <th class="font-weight-bold tableDesign bg-danger text-white">Menu</th>
+                <th class="font-weight-bold tableDesign bg-danger text-white">Dishes</th>
+                <th class="font-weight-bold tableDesign bg-danger text-white">Description</th>
+                <th class="font-weight-bold tableDesign bg-danger text-white">Total Price</th>
+                <th class="font-weight-bold tableDesign bg-danger text-white" colspan="2">Action</th>
+            </tr>
+
+            @foreach (var allBookingsList in @Model)
+            {
+                <tr>
+                    <input type="hidden" name="Id" />
+                    <td class="tableDesign">@allBookingsList.Id</td>
+                    <td class="tableDesign">@allBookingsList.Name</td>
+                    <td class="tableDesign">@allBookingsList.Email</td>
+                    <td class="tableDesign">@allBookingsList.Phone</td>
+                    <td class="tableDesign">@allBookingsList.BookingDate</td>
+                    <td class="tableDesign">@allBookingsList.Menu</td>
+                    <td class="tableDesign">@allBookingsList.Dishes</td>
+                    <td class="tableDesign">@allBookingsList.Description</td>
+                    <td class="tableDesign">@allBookingsList.Price</td>
+                    <td class="tableDesign">
+                        <a style="text-decoration:none; color:forestgreen;" asp-action="Update" asp-route-Id=@allBookingsList.Id>Edit</a>
+                    </td>
+                    <td class="tableDesign">
+                        <a style="text-decoration:none; color:red;" asp-action="Delete" asp-route-Id=@allBookingsList.Id>Delete</a>
+                    </td>
+                </tr>
+            }
+        </table>
+        <input type="button" class="mt-2 btn btn-rounded bg-primary text-white" value="Go Back"
+               onclick="location.href='@Url.Action("Index", "Home")'" />
+    </div>
+</body>
+</html>

@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\bin\Debug\net6.0\4-7-leftRotation.exe
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\bin\Debug\net6.0\4-7-leftRotation.deps.json
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\bin\Debug\net6.0\4-7-leftRotation.runtimeconfig.json
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\bin\Debug\net6.0\4-7-leftRotation.dll
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\bin\Debug\net6.0\4-7-leftRotation.pdb
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\obj\Debug\net6.0\4-7-leftRotation.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\obj\Debug\net6.0\4-7-leftRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\obj\Debug\net6.0\4-7-leftRotation.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\obj\Debug\net6.0\4-7-leftRotation.AssemblyInfo.cs
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\obj\Debug\net6.0\4-7-leftRotation.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\obj\Debug\net6.0\4-7-leftRotation.dll
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\obj\Debug\net6.0\refint\4-7-leftRotation.dll
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\obj\Debug\net6.0\4-7-leftRotation.pdb
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\obj\Debug\net6.0\4-7-leftRotation.genruntimeconfig.cache
+C:\Users\shahb\source\repos\4-7-leftRotation\4-7-leftRotation\obj\Debug\net6.0\ref\4-7-leftRotation.dll

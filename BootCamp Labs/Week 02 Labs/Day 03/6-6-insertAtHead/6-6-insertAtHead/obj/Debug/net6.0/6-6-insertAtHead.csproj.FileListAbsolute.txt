@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\bin\Debug\net6.0\6-6-insertAtHead.exe
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\bin\Debug\net6.0\6-6-insertAtHead.deps.json
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\bin\Debug\net6.0\6-6-insertAtHead.runtimeconfig.json
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\bin\Debug\net6.0\6-6-insertAtHead.dll
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\bin\Debug\net6.0\6-6-insertAtHead.pdb
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\obj\Debug\net6.0\6-6-insertAtHead.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\obj\Debug\net6.0\6-6-insertAtHead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\obj\Debug\net6.0\6-6-insertAtHead.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\obj\Debug\net6.0\6-6-insertAtHead.AssemblyInfo.cs
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\obj\Debug\net6.0\6-6-insertAtHead.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\obj\Debug\net6.0\6-6-insertAtHead.dll
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\obj\Debug\net6.0\refint\6-6-insertAtHead.dll
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\obj\Debug\net6.0\6-6-insertAtHead.pdb
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\obj\Debug\net6.0\6-6-insertAtHead.genruntimeconfig.cache
+C:\Users\shahb\source\repos\6-6-insertAtHead\6-6-insertAtHead\obj\Debug\net6.0\ref\6-6-insertAtHead.dll

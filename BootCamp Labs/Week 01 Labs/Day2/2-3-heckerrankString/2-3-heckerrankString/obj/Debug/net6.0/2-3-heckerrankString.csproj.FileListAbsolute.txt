@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\bin\Debug\net6.0\2-3-heckerrankString.exe
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\bin\Debug\net6.0\2-3-heckerrankString.deps.json
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\bin\Debug\net6.0\2-3-heckerrankString.runtimeconfig.json
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\bin\Debug\net6.0\2-3-heckerrankString.dll
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\bin\Debug\net6.0\2-3-heckerrankString.pdb
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\obj\Debug\net6.0\2-3-heckerrankString.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\obj\Debug\net6.0\2-3-heckerrankString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\obj\Debug\net6.0\2-3-heckerrankString.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\obj\Debug\net6.0\2-3-heckerrankString.AssemblyInfo.cs
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\obj\Debug\net6.0\2-3-heckerrankString.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\obj\Debug\net6.0\2-3-heckerrankString.dll
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\obj\Debug\net6.0\refint\2-3-heckerrankString.dll
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\obj\Debug\net6.0\2-3-heckerrankString.pdb
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\obj\Debug\net6.0\2-3-heckerrankString.genruntimeconfig.cache
+C:\Users\shahb\source\repos\2-3-heckerrankString\2-3-heckerrankString\obj\Debug\net6.0\ref\2-3-heckerrankString.dll

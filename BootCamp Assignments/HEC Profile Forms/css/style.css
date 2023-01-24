@@ -1,0 +1,55 @@
+.darkblue{
+    color:darkblue;
+}
+.bgblue{
+    background-color: blue;
+}
+.bgcolor{
+    background-color: lightgray;
+}
+.atxt{
+    text-decoration: none;
+    color:grey;
+}
+.atxt:hover{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.inputwidth{
+    width: 80%;
+}
+#tabborder{
+    border:1px solid lightgray;
+}
+#idblock{
+    border: 1px solid gray;
+}
+.idinfo{
+    background-color: lightblue;
+    border-color: aqua;
+}
+#idrow{
+    margin:auto;
+}
+#idcolorfirst{
+    background-color: lightgray;
+    border-bottom: 1px solid gray;
+}
+#idcolormid{
+    background-color: lightgray;
+    border-bottom: 1px solid gray;
+    border-left: 1px solid gray;
+}
+.greenbtn{
+    border: 1px solid green;
+    color: green;
+}
+.greenbtn:hover{
+    color: white;
+    background-color: green;
+}
+
+.fontsize{
+    font-size:x-large;
+}

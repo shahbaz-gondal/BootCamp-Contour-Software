@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\bin\Debug\net6.0\6-6-Reverse.exe
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\bin\Debug\net6.0\6-6-Reverse.deps.json
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\bin\Debug\net6.0\6-6-Reverse.runtimeconfig.json
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\bin\Debug\net6.0\6-6-Reverse.dll
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\bin\Debug\net6.0\6-6-Reverse.pdb
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\obj\Debug\net6.0\6-6-Reverse.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\obj\Debug\net6.0\6-6-Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\obj\Debug\net6.0\6-6-Reverse.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\obj\Debug\net6.0\6-6-Reverse.AssemblyInfo.cs
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\obj\Debug\net6.0\6-6-Reverse.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\obj\Debug\net6.0\6-6-Reverse.dll
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\obj\Debug\net6.0\refint\6-6-Reverse.dll
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\obj\Debug\net6.0\6-6-Reverse.pdb
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\obj\Debug\net6.0\6-6-Reverse.genruntimeconfig.cache
+C:\Users\shahb\source\repos\6-6-Reverse\6-6-Reverse\obj\Debug\net6.0\ref\6-6-Reverse.dll

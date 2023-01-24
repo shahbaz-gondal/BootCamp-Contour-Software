@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\bin\Debug\net6.0\2-5-gradingStudents.exe
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\bin\Debug\net6.0\2-5-gradingStudents.deps.json
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\bin\Debug\net6.0\2-5-gradingStudents.runtimeconfig.json
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\bin\Debug\net6.0\2-5-gradingStudents.dll
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\bin\Debug\net6.0\2-5-gradingStudents.pdb
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\obj\Debug\net6.0\2-5-gradingStudents.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\obj\Debug\net6.0\2-5-gradingStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\obj\Debug\net6.0\2-5-gradingStudents.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\obj\Debug\net6.0\2-5-gradingStudents.AssemblyInfo.cs
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\obj\Debug\net6.0\2-5-gradingStudents.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\obj\Debug\net6.0\2-5-gradingStudents.dll
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\obj\Debug\net6.0\refint\2-5-gradingStudents.dll
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\obj\Debug\net6.0\2-5-gradingStudents.pdb
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\obj\Debug\net6.0\2-5-gradingStudents.genruntimeconfig.cache
+C:\Users\shahb\source\repos\2-5-gradingStudents\2-5-gradingStudents\obj\Debug\net6.0\ref\2-5-gradingStudents.dll

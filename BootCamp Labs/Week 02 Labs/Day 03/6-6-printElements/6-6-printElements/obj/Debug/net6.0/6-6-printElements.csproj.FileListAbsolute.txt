@@ -1,0 +1,30 @@
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\bin\Debug\net6.0\6-6-printElements.exe
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\bin\Debug\net6.0\6-6-printElements.deps.json
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\bin\Debug\net6.0\6-6-printElements.runtimeconfig.json
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\bin\Debug\net6.0\6-6-printElements.dll
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\bin\Debug\net6.0\6-6-printElements.pdb
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.AssemblyInfo.cs
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.dll
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\obj\Debug\net6.0\refint\6-6-printElements.dll
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.pdb
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.genruntimeconfig.cache
+C:\Users\shahb\source\repos\6-6-printElements\6-6-printElements\obj\Debug\net6.0\ref\6-6-printElements.dll
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\bin\Debug\net6.0\6-6-printElements.exe
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\bin\Debug\net6.0\6-6-printElements.deps.json
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\bin\Debug\net6.0\6-6-printElements.runtimeconfig.json
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\bin\Debug\net6.0\6-6-printElements.dll
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\bin\Debug\net6.0\6-6-printElements.pdb
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.AssemblyInfo.cs
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.dll
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\obj\Debug\net6.0\refint\6-6-printElements.dll
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.pdb
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\obj\Debug\net6.0\6-6-printElements.genruntimeconfig.cache
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-printElements\6-6-printElements\obj\Debug\net6.0\ref\6-6-printElements.dll

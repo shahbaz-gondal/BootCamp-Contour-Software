@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\bin\Debug\net6.0\5-3-binarySearchIterative.exe
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\bin\Debug\net6.0\5-3-binarySearchIterative.deps.json
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\bin\Debug\net6.0\5-3-binarySearchIterative.runtimeconfig.json
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\bin\Debug\net6.0\5-3-binarySearchIterative.dll
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\bin\Debug\net6.0\5-3-binarySearchIterative.pdb
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\obj\Debug\net6.0\5-3-binarySearchIterative.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\obj\Debug\net6.0\5-3-binarySearchIterative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\obj\Debug\net6.0\5-3-binarySearchIterative.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\obj\Debug\net6.0\5-3-binarySearchIterative.AssemblyInfo.cs
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\obj\Debug\net6.0\5-3-binarySearchIterative.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\obj\Debug\net6.0\5-3-binarySearchIterative.dll
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\obj\Debug\net6.0\refint\5-3-binarySearchIterative.dll
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\obj\Debug\net6.0\5-3-binarySearchIterative.pdb
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\obj\Debug\net6.0\5-3-binarySearchIterative.genruntimeconfig.cache
+C:\Users\shahb\source\repos\5-3-binarySearchIterative\5-3-binarySearchIterative\obj\Debug\net6.0\ref\5-3-binarySearchIterative.dll

@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\bin\Debug\net6.0\2-5-migratoryBirds.exe
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\bin\Debug\net6.0\2-5-migratoryBirds.deps.json
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\bin\Debug\net6.0\2-5-migratoryBirds.runtimeconfig.json
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\bin\Debug\net6.0\2-5-migratoryBirds.dll
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\bin\Debug\net6.0\2-5-migratoryBirds.pdb
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\obj\Debug\net6.0\2-5-migratoryBirds.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\obj\Debug\net6.0\2-5-migratoryBirds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\obj\Debug\net6.0\2-5-migratoryBirds.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\obj\Debug\net6.0\2-5-migratoryBirds.AssemblyInfo.cs
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\obj\Debug\net6.0\2-5-migratoryBirds.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\obj\Debug\net6.0\2-5-migratoryBirds.dll
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\obj\Debug\net6.0\refint\2-5-migratoryBirds.dll
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\obj\Debug\net6.0\2-5-migratoryBirds.pdb
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\obj\Debug\net6.0\2-5-migratoryBirds.genruntimeconfig.cache
+C:\Users\shahb\source\repos\2-5-migratoryBirds\2-5-migratoryBirds\obj\Debug\net6.0\ref\2-5-migratoryBirds.dll

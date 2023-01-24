@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\bin\Debug\net6.0\5-3-findSqrtBinarySearch.exe
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\bin\Debug\net6.0\5-3-findSqrtBinarySearch.deps.json
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\bin\Debug\net6.0\5-3-findSqrtBinarySearch.runtimeconfig.json
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\bin\Debug\net6.0\5-3-findSqrtBinarySearch.dll
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\bin\Debug\net6.0\5-3-findSqrtBinarySearch.pdb
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\obj\Debug\net6.0\5-3-findSqrtBinarySearch.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\obj\Debug\net6.0\5-3-findSqrtBinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\obj\Debug\net6.0\5-3-findSqrtBinarySearch.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\obj\Debug\net6.0\5-3-findSqrtBinarySearch.AssemblyInfo.cs
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\obj\Debug\net6.0\5-3-findSqrtBinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\obj\Debug\net6.0\5-3-findSqrtBinarySearch.dll
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\obj\Debug\net6.0\refint\5-3-findSqrtBinarySearch.dll
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\obj\Debug\net6.0\5-3-findSqrtBinarySearch.pdb
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\obj\Debug\net6.0\5-3-findSqrtBinarySearch.genruntimeconfig.cache
+C:\Users\shahb\source\repos\5-3-findSqrtBinarySearch\5-3-findSqrtBinarySearch\obj\Debug\net6.0\ref\5-3-findSqrtBinarySearch.dll

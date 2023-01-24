@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\bin\Debug\net6.0\6-2-selectionSort.exe
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\bin\Debug\net6.0\6-2-selectionSort.deps.json
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\bin\Debug\net6.0\6-2-selectionSort.runtimeconfig.json
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\bin\Debug\net6.0\6-2-selectionSort.dll
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\bin\Debug\net6.0\6-2-selectionSort.pdb
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\obj\Debug\net6.0\6-2-selectionSort.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\obj\Debug\net6.0\6-2-selectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\obj\Debug\net6.0\6-2-selectionSort.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\obj\Debug\net6.0\6-2-selectionSort.AssemblyInfo.cs
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\obj\Debug\net6.0\6-2-selectionSort.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\obj\Debug\net6.0\6-2-selectionSort.dll
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\obj\Debug\net6.0\refint\6-2-selectionSort.dll
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\obj\Debug\net6.0\6-2-selectionSort.pdb
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\obj\Debug\net6.0\6-2-selectionSort.genruntimeconfig.cache
+C:\Users\shahb\source\repos\6-2-selectionSort\6-2-selectionSort\obj\Debug\net6.0\ref\6-2-selectionSort.dll

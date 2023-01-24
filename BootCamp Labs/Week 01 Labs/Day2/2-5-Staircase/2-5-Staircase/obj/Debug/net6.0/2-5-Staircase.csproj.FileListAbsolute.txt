@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\bin\Debug\net6.0\2-5-Staircase.exe
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\bin\Debug\net6.0\2-5-Staircase.deps.json
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\bin\Debug\net6.0\2-5-Staircase.runtimeconfig.json
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\bin\Debug\net6.0\2-5-Staircase.dll
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\bin\Debug\net6.0\2-5-Staircase.pdb
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\obj\Debug\net6.0\2-5-Staircase.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\obj\Debug\net6.0\2-5-Staircase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\obj\Debug\net6.0\2-5-Staircase.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\obj\Debug\net6.0\2-5-Staircase.AssemblyInfo.cs
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\obj\Debug\net6.0\2-5-Staircase.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\obj\Debug\net6.0\2-5-Staircase.dll
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\obj\Debug\net6.0\refint\2-5-Staircase.dll
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\obj\Debug\net6.0\2-5-Staircase.pdb
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\obj\Debug\net6.0\2-5-Staircase.genruntimeconfig.cache
+C:\Users\shahb\source\repos\2-5-Staircase\2-5-Staircase\obj\Debug\net6.0\ref\2-5-Staircase.dll

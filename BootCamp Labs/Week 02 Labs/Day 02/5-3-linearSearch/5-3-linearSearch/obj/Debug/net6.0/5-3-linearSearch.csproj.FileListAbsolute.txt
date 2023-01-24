@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\bin\Debug\net6.0\5-3-linearSearch.exe
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\bin\Debug\net6.0\5-3-linearSearch.deps.json
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\bin\Debug\net6.0\5-3-linearSearch.runtimeconfig.json
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\bin\Debug\net6.0\5-3-linearSearch.dll
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\bin\Debug\net6.0\5-3-linearSearch.pdb
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\obj\Debug\net6.0\5-3-linearSearch.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\obj\Debug\net6.0\5-3-linearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\obj\Debug\net6.0\5-3-linearSearch.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\obj\Debug\net6.0\5-3-linearSearch.AssemblyInfo.cs
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\obj\Debug\net6.0\5-3-linearSearch.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\obj\Debug\net6.0\5-3-linearSearch.dll
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\obj\Debug\net6.0\refint\5-3-linearSearch.dll
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\obj\Debug\net6.0\5-3-linearSearch.pdb
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\obj\Debug\net6.0\5-3-linearSearch.genruntimeconfig.cache
+C:\Users\shahb\source\repos\5-3-linearSearch\5-3-linearSearch\obj\Debug\net6.0\ref\5-3-linearSearch.dll

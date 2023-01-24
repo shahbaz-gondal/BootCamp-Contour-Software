@@ -1,0 +1,30 @@
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\bin\Debug\net6.0\6-6-insertAtSpecificPosition.exe
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\bin\Debug\net6.0\6-6-insertAtSpecificPosition.deps.json
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\bin\Debug\net6.0\6-6-insertAtSpecificPosition.runtimeconfig.json
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\bin\Debug\net6.0\6-6-insertAtSpecificPosition.dll
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\bin\Debug\net6.0\6-6-insertAtSpecificPosition.pdb
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.AssemblyInfo.cs
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.dll
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\refint\6-6-insertAtSpecificPosition.dll
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.pdb
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.genruntimeconfig.cache
+C:\Users\shahb\source\repos\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\ref\6-6-insertAtSpecificPosition.dll
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.AssemblyInfo.cs
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.dll
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\refint\6-6-insertAtSpecificPosition.dll
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.pdb
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\bin\Debug\net6.0\6-6-insertAtSpecificPosition.exe
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\bin\Debug\net6.0\6-6-insertAtSpecificPosition.deps.json
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\bin\Debug\net6.0\6-6-insertAtSpecificPosition.runtimeconfig.json
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\bin\Debug\net6.0\6-6-insertAtSpecificPosition.dll
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\bin\Debug\net6.0\6-6-insertAtSpecificPosition.pdb
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\6-6-insertAtSpecificPosition.genruntimeconfig.cache
+C:\Users\shahb\source\repos\Week 02 Labs\Day 03\6-6-insertAtSpecificPosition\6-6-insertAtSpecificPosition\obj\Debug\net6.0\ref\6-6-insertAtSpecificPosition.dll

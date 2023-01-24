@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\bin\Debug\net6.0\4-7_2D_Array-DS.exe
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\bin\Debug\net6.0\4-7_2D_Array-DS.deps.json
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\bin\Debug\net6.0\4-7_2D_Array-DS.runtimeconfig.json
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\bin\Debug\net6.0\4-7_2D_Array-DS.dll
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\bin\Debug\net6.0\4-7_2D_Array-DS.pdb
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\obj\Debug\net6.0\4-7_2D_Array-DS.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\obj\Debug\net6.0\4-7_2D_Array-DS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\obj\Debug\net6.0\4-7_2D_Array-DS.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\obj\Debug\net6.0\4-7_2D_Array-DS.AssemblyInfo.cs
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\obj\Debug\net6.0\4-7_2D_Array-DS.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\obj\Debug\net6.0\4-7_2D_Array-DS.dll
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\obj\Debug\net6.0\refint\4-7_2D_Array-DS.dll
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\obj\Debug\net6.0\4-7_2D_Array-DS.pdb
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\obj\Debug\net6.0\4-7_2D_Array-DS.genruntimeconfig.cache
+C:\Users\shahb\source\repos\4-7_2D_Array-DS\4-7_2D_Array-DS\obj\Debug\net6.0\ref\4-7_2D_Array-DS.dll

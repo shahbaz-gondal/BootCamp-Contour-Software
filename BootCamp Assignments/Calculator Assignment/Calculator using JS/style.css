@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(110, 110, 110);
+}
+#rapper{
+    width: 280px;
+    height: 500px;
+    background-color: rgb(238, 236, 236);
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+    margin: auto;
+    margin-top: 50px;
+    padding: 1%;
+}
+#toprapper{
+    width: auto;
+    height: 150px;
+    background-color: darkgray;
+    border-radius: 5px 55px;
+}
+.displaybox{
+    margin-left: 3%;
+    width: 90%;
+    height: 30px;
+    font-weight: bold;
+}
+#bottomrapper{
+    margin-top: 40px;
+    width: auto;
+    height: 230px;
+    border-style: solid;
+    border-color: darkgray;
+    border-width: 2px;
+    border-radius: 20px;
+    padding: 15px;
+}
+#buttonrapper{
+    height: 50px;
+}
+#button{
+    width: 40px;
+    height: 30px;
+    margin-right: 24px;
+    font-weight: bolder;
+    font-size: larger;
+}
+#lastbutton{
+    width: 40px;
+    height: 30px;
+    float: right;
+    font-weight: bolder;
+    font-size: x-large;
+}
+#clearbutton{
+    width: 40px;
+    height: 30px;
+    float: right;
+    background-color: red;
+    font-weight: bolder;
+    font-size: larger;
+}
+#equalbutton{
+    width: 104px;
+    height: 30px;
+    float: right;
+    background-color: green;
+    font-weight: bolder;
+    font-size: larger;
+}
+#zerobutton{
+    width: 104px;
+    height: 30px;
+    font-weight: bolder;
+    font-size: larger;
+}
+input:hover{
+    background-color: black;
+    color:white;
+    font-weight: bolder;
+}

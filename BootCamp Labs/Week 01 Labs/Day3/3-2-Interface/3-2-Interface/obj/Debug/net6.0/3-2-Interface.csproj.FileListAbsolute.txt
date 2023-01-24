@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\obj\Debug\net6.0\3-2-Interface.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\obj\Debug\net6.0\3-2-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\obj\Debug\net6.0\3-2-Interface.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\obj\Debug\net6.0\3-2-Interface.AssemblyInfo.cs
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\obj\Debug\net6.0\3-2-Interface.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\bin\Debug\net6.0\3-2-Interface.exe
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\bin\Debug\net6.0\3-2-Interface.deps.json
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\bin\Debug\net6.0\3-2-Interface.runtimeconfig.json
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\bin\Debug\net6.0\3-2-Interface.dll
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\bin\Debug\net6.0\3-2-Interface.pdb
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\obj\Debug\net6.0\3-2-Interface.dll
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\obj\Debug\net6.0\refint\3-2-Interface.dll
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\obj\Debug\net6.0\3-2-Interface.pdb
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\obj\Debug\net6.0\3-2-Interface.genruntimeconfig.cache
+C:\Users\shahb\source\repos\3-2-Interface\3-2-Interface\obj\Debug\net6.0\ref\3-2-Interface.dll

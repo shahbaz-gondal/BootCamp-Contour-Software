@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\bin\Debug\net6.0\2-3-plusMinus.exe
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\bin\Debug\net6.0\2-3-plusMinus.deps.json
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\bin\Debug\net6.0\2-3-plusMinus.runtimeconfig.json
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\bin\Debug\net6.0\2-3-plusMinus.dll
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\bin\Debug\net6.0\2-3-plusMinus.pdb
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\obj\Debug\net6.0\2-3-plusMinus.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\obj\Debug\net6.0\2-3-plusMinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\obj\Debug\net6.0\2-3-plusMinus.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\obj\Debug\net6.0\2-3-plusMinus.AssemblyInfo.cs
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\obj\Debug\net6.0\2-3-plusMinus.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\obj\Debug\net6.0\2-3-plusMinus.dll
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\obj\Debug\net6.0\refint\2-3-plusMinus.dll
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\obj\Debug\net6.0\2-3-plusMinus.pdb
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\obj\Debug\net6.0\2-3-plusMinus.genruntimeconfig.cache
+C:\Users\shahb\source\repos\2-3-plusMinus\2-3-plusMinus\obj\Debug\net6.0\ref\2-3-plusMinus.dll

@@ -1,0 +1,33 @@
+﻿@model List<StudentModel>
+@{
+}
+
+ <h3>Enter-Your-Data</h3>
+   <form asp-action="AddStudent">
+       <input name="Id" type="text" placeholder="ID"/><br /><br />
+       <input name="Name" type="text" placeholder="Full Name"/><br /><br />
+       <input name="Email" type="email" placeholder="email"/><br /><br />
+       <input type="submit" style="background-color:greenyellow"/>
+   </form>
+   <br /><br />
+   <table>
+       <tr>
+           <th style="border:2px solid; width:max-content">ID</th>
+           <th style="border:2px solid; width:max-content" >Name</th>
+           <th style="border:2px solid; width:max-content">Email</th>
+           <th style="border:2px solid; width:max-content">Action</th>
+       </tr>
+        @foreach(StudentModel item in Model)
+    {
+        <tr>
+            <input type="hidden" name="Id" />
+            <td style="border:1px solid">@item.Id</td>
+            <td style="border:1px solid">@item.Name</td>
+            <td style="border:1px solid">@item.Email</td>
+            <td style="border:1px solid">
+                <a style="text-decoration:none; color:forestgreen" asp-action="Update" asp-route-Id=@item.Id>Edit</a>
+                <a style="text-decoration:none; color:red" asp-action="DeleteRecord" asp-route-Id=@item.Id>Delete</a>
+            </td>
+        </tr>
+    }
+</table>

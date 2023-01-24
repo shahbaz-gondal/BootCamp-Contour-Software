@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\bin\Debug\net6.0\4-7-Array-DS.exe
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\bin\Debug\net6.0\4-7-Array-DS.deps.json
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\bin\Debug\net6.0\4-7-Array-DS.runtimeconfig.json
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\bin\Debug\net6.0\4-7-Array-DS.dll
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\bin\Debug\net6.0\4-7-Array-DS.pdb
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\obj\Debug\net6.0\4-7-Array-DS.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\obj\Debug\net6.0\4-7-Array-DS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\obj\Debug\net6.0\4-7-Array-DS.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\obj\Debug\net6.0\4-7-Array-DS.AssemblyInfo.cs
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\obj\Debug\net6.0\4-7-Array-DS.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\obj\Debug\net6.0\4-7-Array-DS.dll
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\obj\Debug\net6.0\refint\4-7-Array-DS.dll
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\obj\Debug\net6.0\4-7-Array-DS.pdb
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\obj\Debug\net6.0\4-7-Array-DS.genruntimeconfig.cache
+C:\Users\shahb\source\repos\4-7-Array-DS\4-7-Array-DS\obj\Debug\net6.0\ref\4-7-Array-DS.dll

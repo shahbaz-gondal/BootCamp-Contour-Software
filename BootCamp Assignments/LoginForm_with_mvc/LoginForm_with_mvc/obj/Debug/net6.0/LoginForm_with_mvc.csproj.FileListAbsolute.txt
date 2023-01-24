@@ -1,0 +1,62 @@
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.AssemblyInfo.cs
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.RazorAssemblyInfo.cache
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.RazorAssemblyInfo.cs
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\appsettings.json
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\LoginForm_with_mvc.staticwebassets.runtime.json
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\LoginForm_with_mvc.exe
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\LoginForm_with_mvc.deps.json
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\LoginForm_with_mvc.runtimeconfig.json
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\LoginForm_with_mvc.dll
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\LoginForm_with_mvc.pdb
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets\msbuild.LoginForm_with_mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets\msbuild.build.LoginForm_with_mvc.props
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LoginForm_with_mvc.props
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LoginForm_with_mvc.props
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\scopedcss\bundle\LoginForm_with_mvc.styles.css
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\scopedcss\projectbundle\LoginForm_with_mvc.bundle.scp.css
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.dll
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\refint\LoginForm_with_mvc.dll
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.pdb
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.genruntimeconfig.cache
+C:\Users\shahb\source\repos\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\ref\LoginForm_with_mvc.dll
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\appsettings.Development.json
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\appsettings.json
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\LoginForm_with_mvc.staticwebassets.runtime.json
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\LoginForm_with_mvc.exe
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\LoginForm_with_mvc.deps.json
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\LoginForm_with_mvc.runtimeconfig.json
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\LoginForm_with_mvc.dll
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\bin\Debug\net6.0\LoginForm_with_mvc.pdb
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.csproj.AssemblyReference.cache
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.GeneratedMSBuildEditorConfig.editorconfig
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.AssemblyInfoInputs.cache
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.AssemblyInfo.cs
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.csproj.CoreCompileInputs.cache
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.MvcApplicationPartsAssemblyInfo.cache
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.RazorAssemblyInfo.cache
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.RazorAssemblyInfo.cs
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets\msbuild.LoginForm_with_mvc.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets\msbuild.build.LoginForm_with_mvc.props
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LoginForm_with_mvc.props
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LoginForm_with_mvc.props
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets.pack.json
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets.build.json
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\staticwebassets.development.json
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\scopedcss\bundle\LoginForm_with_mvc.styles.css
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\scopedcss\projectbundle\LoginForm_with_mvc.bundle.scp.css
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.dll
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\refint\LoginForm_with_mvc.dll
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.pdb
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\LoginForm_with_mvc.genruntimeconfig.cache
+E:\BootCamp Contour Software\Assignments\LoginForm_with_mvc\LoginForm_with_mvc\obj\Debug\net6.0\ref\LoginForm_with_mvc.dll

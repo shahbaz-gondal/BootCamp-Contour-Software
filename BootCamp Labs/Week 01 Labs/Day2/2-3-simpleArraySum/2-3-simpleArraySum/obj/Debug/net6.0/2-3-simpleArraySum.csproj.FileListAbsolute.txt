@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\bin\Debug\net6.0\2-3-simpleArraySum.exe
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\bin\Debug\net6.0\2-3-simpleArraySum.deps.json
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\bin\Debug\net6.0\2-3-simpleArraySum.runtimeconfig.json
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\bin\Debug\net6.0\2-3-simpleArraySum.dll
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\bin\Debug\net6.0\2-3-simpleArraySum.pdb
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\obj\Debug\net6.0\2-3-simpleArraySum.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\obj\Debug\net6.0\2-3-simpleArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\obj\Debug\net6.0\2-3-simpleArraySum.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\obj\Debug\net6.0\2-3-simpleArraySum.AssemblyInfo.cs
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\obj\Debug\net6.0\2-3-simpleArraySum.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\obj\Debug\net6.0\2-3-simpleArraySum.dll
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\obj\Debug\net6.0\refint\2-3-simpleArraySum.dll
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\obj\Debug\net6.0\2-3-simpleArraySum.pdb
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\obj\Debug\net6.0\2-3-simpleArraySum.genruntimeconfig.cache
+C:\Users\shahb\source\repos\2-3-simpleArraySum\2-3-simpleArraySum\obj\Debug\net6.0\ref\2-3-simpleArraySum.dll

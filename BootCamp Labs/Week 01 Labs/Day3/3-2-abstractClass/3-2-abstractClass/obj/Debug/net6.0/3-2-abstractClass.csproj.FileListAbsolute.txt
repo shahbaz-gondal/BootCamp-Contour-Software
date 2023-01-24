@@ -1,0 +1,15 @@
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\bin\Debug\net6.0\3-2-abstractClass.exe
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\bin\Debug\net6.0\3-2-abstractClass.deps.json
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\bin\Debug\net6.0\3-2-abstractClass.runtimeconfig.json
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\bin\Debug\net6.0\3-2-abstractClass.dll
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\bin\Debug\net6.0\3-2-abstractClass.pdb
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\obj\Debug\net6.0\3-2-abstractClass.csproj.AssemblyReference.cache
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\obj\Debug\net6.0\3-2-abstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\obj\Debug\net6.0\3-2-abstractClass.AssemblyInfoInputs.cache
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\obj\Debug\net6.0\3-2-abstractClass.AssemblyInfo.cs
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\obj\Debug\net6.0\3-2-abstractClass.csproj.CoreCompileInputs.cache
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\obj\Debug\net6.0\3-2-abstractClass.dll
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\obj\Debug\net6.0\refint\3-2-abstractClass.dll
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\obj\Debug\net6.0\3-2-abstractClass.pdb
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\obj\Debug\net6.0\3-2-abstractClass.genruntimeconfig.cache
+C:\Users\shahb\source\repos\3-2-abstractClass\3-2-abstractClass\obj\Debug\net6.0\ref\3-2-abstractClass.dll

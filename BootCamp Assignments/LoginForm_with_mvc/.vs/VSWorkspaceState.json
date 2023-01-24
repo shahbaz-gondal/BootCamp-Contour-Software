@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LoginForm_with_mvc",
+    "\\LoginForm_with_mvc\\Controllers",
+    "\\LoginForm_with_mvc\\Models",
+    "\\LoginForm_with_mvc\\Services",
+    "\\LoginForm_with_mvc\\Views",
+    "\\LoginForm_with_mvc\\Views\\Login_Register"
+  ],
+  "PreviewInSolutionExplorer": false
+}
