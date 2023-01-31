@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XOEfO4kTMlWyGlpcBwj/2+xHU5/JvjQz4RkmkzokeDol5Y6iQJGWunAkaSutKFD4Q1Wr4OTEad3wwHQ3uvvpag==",
+  "dgSpecHash": "xVjPQ+dsRSC7DcL5KU1P6LFnFe4EBBE6vsTfITOByavZTz0Py3qT1++rtbiaTUvBPR5zdXe+OMyTfX20kwVYPw==",
   "success": true,
-  "projectFilePath": "E:\\BootCamp Contour Software\\Assignments\\Restaurent_Management_System\\Restaurent_Management_System\\Restaurent_Management_System.csproj",
+  "projectFilePath": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\BootCamp Assignments\\Restaurent_Management_System\\Restaurent_Management_System\\Restaurent_Management_System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shahb\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\shahb\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
