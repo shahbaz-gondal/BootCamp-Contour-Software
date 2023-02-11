@@ -10,5 +10,7 @@ namespace RSS.Data
             
         }
         public DbSet<Request> Requests { get; set; }
+        public DbSet<Offer> Offers { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

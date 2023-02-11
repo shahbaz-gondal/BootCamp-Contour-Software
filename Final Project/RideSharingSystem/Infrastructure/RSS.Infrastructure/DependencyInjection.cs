@@ -15,6 +15,8 @@ namespace RSS.Infrastructure
                 options => options.UseSqlServer(configuration.GetConnectionString("DbConnection")));
 
             services.AddScoped<IRequestService, RequestService>();
+            services.AddScoped<IOfferService, OfferService>();
+            services.AddScoped<IUserService, UserService>();
         }
     }
 }
