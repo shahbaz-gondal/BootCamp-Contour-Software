@@ -95,6 +95,9 @@
             "projectReferences": {
               "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\BusinessServices\\RSS.Business.Models\\RSS.Business.Models.csproj": {
                 "projectPath": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\BusinessServices\\RSS.Business.Models\\RSS.Business.Models.csproj"
+              },
+              "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Repositories\\RSS.Data.Models\\RSS.Data.Models.csproj": {
+                "projectPath": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Repositories\\RSS.Data.Models\\RSS.Data.Models.csproj"
               }
             }
           }
@@ -229,6 +232,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[7.0.0, )"
@@ -308,6 +315,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.2, )"
+            },
+            "Microsoft.Exchange.WebServices": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",

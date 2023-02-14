@@ -299,3 +299,5 @@ E:\BootCamp Contour Software\BootCamp-Contour-Software\Final Project\RideSharing
 E:\BootCamp Contour Software\BootCamp-Contour-Software\Final Project\RideSharingSystem\Presentation\RSS.WebApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 E:\BootCamp Contour Software\BootCamp-Contour-Software\Final Project\RideSharingSystem\Presentation\RSS.WebApp\bin\Debug\net6.0\RSS.Infrastructure.dll
 E:\BootCamp Contour Software\BootCamp-Contour-Software\Final Project\RideSharingSystem\Presentation\RSS.WebApp\bin\Debug\net6.0\RSS.Infrastructure.pdb
+E:\BootCamp Contour Software\BootCamp-Contour-Software\Final Project\RideSharingSystem\Presentation\RSS.WebApp\bin\Debug\net6.0\Microsoft.Exchange.WebServices.Auth.dll
+E:\BootCamp Contour Software\BootCamp-Contour-Software\Final Project\RideSharingSystem\Presentation\RSS.WebApp\bin\Debug\net6.0\Microsoft.Exchange.WebServices.dll

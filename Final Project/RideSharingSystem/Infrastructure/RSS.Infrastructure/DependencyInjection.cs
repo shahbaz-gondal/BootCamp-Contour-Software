@@ -13,6 +13,7 @@ namespace RSS.Infrastructure
         {
             services.AddDbContext<RideSharingDbContext>(
                 options => options.UseSqlServer(configuration.GetConnectionString("DbConnection")));
+            
 
             services.AddScoped<IRequestService, RequestService>();
             services.AddScoped<IOfferService, OfferService>();

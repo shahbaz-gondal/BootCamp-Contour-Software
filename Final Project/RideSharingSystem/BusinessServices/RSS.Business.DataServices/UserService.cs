@@ -39,16 +39,26 @@ namespace RSS.Business.DataServices
                 return false;
             }
         }
-        public bool Login(UserModel model)
+        public UserModel Login(UserModel model)
         {
-            var valid = _DBContext.Users.Where(x => x.Email == model.Email && x.Password == model.Password).FirstOrDefault();
-            if (valid != null)
+            var user = _DBContext.Users.Where(x => x.Email == model.Email && x.Password == model.Password).FirstOrDefault();
+            
+            if (user != null)
             {
-                return true;
+                var userList = new UserModel
+                {
+                    Id = user.Id,
+                    FullName = user.FullName,
+                    Email = user.Email,
+                    Gender = user.Gender,
+                    Number = user.Number,
+                    Password = user.Password
+                };
+                return userList;
             }
             else
             {
-                return false;
+                return null;
             }
         }
     }

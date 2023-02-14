@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using RSS.Business.DataServices;
 using RSS.Business.Interfaces;
@@ -18,6 +19,23 @@ namespace RSS.WebApp
 
             builder.Services.SetupDI(builder.Configuration);
 
+
+            builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie(option =>
+                {
+                    option.ExpireTimeSpan = TimeSpan.FromMinutes(60 * 1);
+                    option.LoginPath = "/Account/LogIn";
+                    option.AccessDeniedPath = "/Account/LogIn";
+                });
+            builder.Services.AddSession(option =>
+            {
+                option.IdleTimeout = TimeSpan.FromMinutes(5 * 1);
+                option.Cookie.HttpOnly = true;
+                option.Cookie.IsEssential = true;
+            });
+
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -32,6 +50,9 @@ namespace RSS.WebApp
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseSession();
+            app.UseAuthentication();
 
             app.UseAuthorization();
 

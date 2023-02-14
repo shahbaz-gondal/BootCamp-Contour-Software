@@ -9,6 +9,12 @@ namespace RSS.Business.Models
 {
     public class UserModel
     {
+        public UserModel()
+        {
+            Offers = new List<OfferModel>();
+            Requests = new List<RequestModel>();
+        }
+
         [Key]
         public int Id { get; set; }
         [Required]
@@ -21,5 +27,7 @@ namespace RSS.Business.Models
         public string Email { get; set; }
         [Required]
         public string Password { get; set; }
+        public List<OfferModel> Offers { get; set; }
+        public List<RequestModel> Requests { get; set; }
     }
 }

@@ -2,6 +2,7 @@
 using RSS.Business.Interfaces;
 using RSS.Business.Models;
 using RSS.Data;
+using RSS.Data.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,9 +28,26 @@ namespace RSS.Business.DataServices
                 FromCity = x.FromCity,
                 ToCity = x.ToCity,
                 DepartureDateTime = x.DepartureDateTime,
-                Cost = x.Cost
+                Cost = x.Cost,
+                Status = x.Status,
+                UserId = x.UserId
             }).ToList();
             return OffersList;
+        }
+        public List<OfferModel> myOffers(int userId)
+        {
+            var myAllOffers = _DbContext.Offers.Where(x => x.UserId == userId).ToList();
+            var MyOffers = myAllOffers.Select(x => new OfferModel
+            {
+                Id = x.Id,
+                FromCity = x.FromCity,
+                ToCity = x.ToCity,
+                DepartureDateTime = x.DepartureDateTime,
+                Cost = x.Cost,
+                Status = x.Status,
+                UserId = x.UserId
+            }).ToList();
+            return MyOffers;
         }
         public List<OfferModel> SearchRequest(string fromCity, string toCity)
         {
@@ -43,7 +61,9 @@ namespace RSS.Business.DataServices
                 FromCity = x.FromCity,
                 ToCity = x.ToCity,
                 DepartureDateTime = x.DepartureDateTime,
-                Cost = x.Cost
+                Cost = x.Cost,
+                Status = x.Status,
+                UserId = x.UserId
             }).ToList();
             return searchOffers;
         }
@@ -55,7 +75,9 @@ namespace RSS.Business.DataServices
                 FromCity = model.FromCity,
                 ToCity = model.ToCity,
                 DepartureDateTime = model.DepartureDateTime,
-                Cost = model.Cost
+                Cost = model.Cost,
+                Status = model.Status,
+                UserId = model.UserId
             });
             _DbContext.SaveChanges();
         }
@@ -68,6 +90,8 @@ namespace RSS.Business.DataServices
                 entity.ToCity = model.ToCity;
                 entity.DepartureDateTime = model.DepartureDateTime;
                 entity.Cost = model.Cost;
+                entity.Status = model.Status;
+                entity.UserId = model.UserId;
                 _DbContext.SaveChanges();
             }
         }

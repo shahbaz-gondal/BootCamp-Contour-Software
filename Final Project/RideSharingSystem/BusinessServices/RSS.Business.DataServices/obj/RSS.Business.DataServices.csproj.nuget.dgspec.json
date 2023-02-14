@@ -95,6 +95,9 @@
             "projectReferences": {
               "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\BusinessServices\\RSS.Business.Models\\RSS.Business.Models.csproj": {
                 "projectPath": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\BusinessServices\\RSS.Business.Models\\RSS.Business.Models.csproj"
+              },
+              "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Repositories\\RSS.Data.Models\\RSS.Data.Models.csproj": {
+                "projectPath": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Repositories\\RSS.Data.Models\\RSS.Data.Models.csproj"
               }
             }
           }

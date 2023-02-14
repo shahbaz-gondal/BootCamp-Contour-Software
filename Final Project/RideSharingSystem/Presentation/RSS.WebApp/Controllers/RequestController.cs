@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using RSS.Business.DataServices;
 using RSS.Business.Interfaces;
@@ -9,6 +10,7 @@ namespace RSS.WebApp.Controllers
     public class RequestController : Controller
     {
         private readonly IRequestService _requestService;
+        const string SessionId = "_Id";
         public RequestController(IRequestService requestService)
         {
             _requestService = requestService;
@@ -25,27 +27,31 @@ namespace RSS.WebApp.Controllers
                 return View(_requestService.SearchRequest(fromCity, toCity));
             }
         }
-        public ActionResult Index()
+
+        [Authorize]
+        public ActionResult GetmyRequests()
         {
-           
-            return View(_requestService.GetAll());
+            int id = (int)HttpContext.Session.GetInt32(SessionId);
+            return View(_requestService.myRequests(id));
         }
 
+        [Authorize]
         // GET: RequestController/Create
         public ActionResult Create()
         {
+            ViewData["Id"] = (int)HttpContext.Session.GetInt32(SessionId);
             return View();
         }
-
         // POST: RequestController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize]
         public ActionResult Create(RequestModel model)
         {
             try
             {
                 _requestService.Add(model);
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("GetmyRequests");
             }
             catch
             {
@@ -53,22 +59,25 @@ namespace RSS.WebApp.Controllers
             }
         }
 
+        [Authorize]
         // GET: RequestController/Edit/5
         public ActionResult Edit(int id)
         {
             var request = _requestService.GetAll().Where(x => x.Id == id).FirstOrDefault();
+            ViewData["Id"] = (int)HttpContext.Session.GetInt32(SessionId);
             return View(request);
         }
 
         // POST: RequestController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize]
         public ActionResult Edit(RequestModel model)
         {
             try
             {
                 _requestService.Update(model);
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("GetmyRequests");
             }
             catch
             {
@@ -76,11 +85,17 @@ namespace RSS.WebApp.Controllers
             }
         }
 
+        [Authorize]
         // GET: RequestController/Delete/5
         public ActionResult Delete(int id)
         {
             _requestService.Delete(id);
-            return RedirectToAction("Index");
+            return RedirectToAction("GetmyRequests");
+        }
+        public ActionResult Details(int id)
+        {
+            var Details = _requestService.GetAll().Where(x => x.Id == id).FirstOrDefault();
+            return View(Details);
         }
     }
 }

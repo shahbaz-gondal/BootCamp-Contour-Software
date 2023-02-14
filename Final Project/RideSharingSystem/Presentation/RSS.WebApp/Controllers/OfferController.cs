@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using RSS.Business.DataServices;
 using RSS.Business.Interfaces;
@@ -9,6 +10,7 @@ namespace RSS.WebApp.Controllers
     public class OfferController : Controller
     {
         private readonly IOfferService _offerService;
+        const string SessionId = "_Id";
         public OfferController(IOfferService offerService)
         {
             _offerService = offerService;
@@ -24,27 +26,32 @@ namespace RSS.WebApp.Controllers
                 return View(_offerService.SearchRequest(fromCity, toCity));
             }
         }
+        [Authorize]
         // GET: OfferController
-        public ActionResult Index()
+        public ActionResult GetmyOffers()
         {
-            return View(_offerService.GetAll());
+            int id = (int)HttpContext.Session.GetInt32(SessionId);
+            return View(_offerService.myOffers(id));
         }
 
+        [Authorize]
         // GET: OfferController/Create
         public ActionResult Create()
         {
+            ViewData["Id"] = (int)HttpContext.Session.GetInt32(SessionId);
             return View();
         }
 
         // POST: OfferController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize]
         public ActionResult Create(OfferModel model)
         {
             try
             {
                 _offerService.Add(model);
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("GetmyOffers");
             }
             catch
             {
@@ -52,13 +59,16 @@ namespace RSS.WebApp.Controllers
             }
         }
 
+        [Authorize]
         // GET: OfferController/Edit/5
         public ActionResult Edit(int id)
         {
             var offer = _offerService.GetAll().Where(x => x.Id == id).FirstOrDefault();
+            ViewData["Id"] = (int)HttpContext.Session.GetInt32(SessionId);
             return View(offer);
         }
 
+        [Authorize]
         // POST: OfferController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -67,7 +77,7 @@ namespace RSS.WebApp.Controllers
             try
             {
                 _offerService.Update(model);
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("GetmyOffers");
             }
             catch
             {
@@ -75,11 +85,19 @@ namespace RSS.WebApp.Controllers
             }
         }
 
+        [Authorize]
         // GET: OfferController/Delete/5
         public ActionResult Delete(int id)
         {
             _offerService.Delete(id);
-            return View();
+            return RedirectToAction("GetmyOffers");
+        }
+
+        [Authorize]
+        public ActionResult Details(int id)
+        {
+            var Details = _offerService.GetAll().Where(x => x.Id == id).FirstOrDefault();
+            return View(Details);
         }
     }
 }

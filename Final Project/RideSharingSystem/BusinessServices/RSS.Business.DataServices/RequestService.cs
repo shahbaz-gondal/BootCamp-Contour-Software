@@ -19,9 +19,27 @@ namespace RSS.Business.DataServices
                 Id = x.Id,
                 FromCity = x.FromCity,
                 ToCity = x.ToCity,
-                DepartureDateTime = x.DepartureDateTime
+                DepartureDateTime = x.DepartureDateTime,
+                Fare = x.Fare,
+                Status = x.Status,
+                UserId = x.UserId
             }).ToList();
             return RequestsList;
+        }
+        public List<RequestModel> myRequests(int userId)
+        {
+            var myAllRequests = _DBcontext.Requests.Where(x => x.UserId == userId).ToList();
+            var MyRequests = myAllRequests.Select(x => new RequestModel
+            {
+                Id = x.Id,
+                FromCity = x.FromCity,
+                ToCity = x.ToCity,
+                DepartureDateTime = x.DepartureDateTime,
+                Fare = x.Fare,
+                Status = x.Status,
+                UserId = x.UserId
+            }).ToList();
+            return MyRequests;
         }
         public List<RequestModel> SearchRequest(string fromCity, string toCity)
         {
@@ -35,14 +53,24 @@ namespace RSS.Business.DataServices
                 Id = x.Id,
                 FromCity = x.FromCity,
                 ToCity = x.ToCity,
-                DepartureDateTime = x.DepartureDateTime
+                DepartureDateTime = x.DepartureDateTime,
+                Fare = x.Fare,
+                Status = x.Status,
+                UserId = x.UserId
             }).ToList();
             return searchRequests;
         }
         public void Add(RequestModel model)
         {
-            _DBcontext.Requests.Add(new Data.Models.Request { Id=model.Id,FromCity=model.FromCity,
-            ToCity=model.ToCity,DepartureDateTime=model.DepartureDateTime});
+            _DBcontext.Requests.Add(new Data.Models.Request { 
+                Id=model.Id,
+                FromCity=model.FromCity,
+                ToCity=model.ToCity,
+                DepartureDateTime=model.DepartureDateTime,
+                Fare = model.Fare,
+                Status = model.Status,
+                UserId = model.UserId
+            });
             _DBcontext.SaveChanges();
         }
         public void Update(RequestModel model)
@@ -53,6 +81,9 @@ namespace RSS.Business.DataServices
                 entity.FromCity = model.FromCity;
                 entity.ToCity = model.ToCity;
                 entity.DepartureDateTime = model.DepartureDateTime;
+                entity.Fare = model.Fare;
+                entity.Status = model.Status;
+                entity.UserId = model.UserId;
                 _DBcontext.SaveChanges();
             }
         }

@@ -1,10 +1,10 @@
-﻿@model IEnumerable<RSS.Business.Models.RequestModel>
+﻿@model IEnumerable<RSS.Business.Models.OfferModel>
 
 @{
-    ViewData["Title"] = "Your Requests";
+    ViewData["Title"] = "Your Offers";
 }
 
-<h1>Your Requests</h1>
+<h3>Your Offers</h3>
 
 <p>
     <a asp-action="Create">Create New</a>
@@ -20,6 +20,12 @@
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.DepartureDateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
             </th>
             <th></th>
         </tr>
@@ -37,7 +43,13 @@
                 @Html.DisplayFor(modelItem => item.DepartureDateTime)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+                @Html.DisplayFor(modelItem => item.Cost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Id}) |
                 @Html.ActionLink("Delete", "Delete", new { id=item.Id })
             </td>
         </tr>

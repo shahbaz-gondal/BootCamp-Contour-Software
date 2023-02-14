@@ -15,6 +15,7 @@ namespace RSS.WebApp.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.name = HttpContext.Session.GetString("name");
             return View();
         }
 

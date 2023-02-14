@@ -10,6 +10,6 @@ namespace RSS.Business.Interfaces
     public interface IUserService
     {
         public bool Register(UserModel model);
-        public bool Login(UserModel model);
+        public  UserModel Login(UserModel model);
     }
 }

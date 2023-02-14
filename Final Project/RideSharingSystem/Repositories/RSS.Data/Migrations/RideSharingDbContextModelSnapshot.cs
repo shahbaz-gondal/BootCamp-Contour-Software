@@ -40,11 +40,20 @@ namespace RSS.Data.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Status")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("ToCity")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Offers");
                 });
@@ -60,7 +69,14 @@ namespace RSS.Data.Migrations
                     b.Property<DateTime>("DepartureDateTime")
                         .HasColumnType("datetime2");
 
+                    b.Property<int>("Fare")
+                        .HasColumnType("int");
+
                     b.Property<string>("FromCity")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Status")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -68,7 +84,12 @@ namespace RSS.Data.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Requests");
                 });
@@ -103,6 +124,35 @@ namespace RSS.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("RSS.Data.Models.Offer", b =>
+                {
+                    b.HasOne("RSS.Data.Models.User", "User")
+                        .WithMany("Offers")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("RSS.Data.Models.Request", b =>
+                {
+                    b.HasOne("RSS.Data.Models.User", "User")
+                        .WithMany("Requests")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("RSS.Data.Models.User", b =>
+                {
+                    b.Navigation("Offers");
+
+                    b.Navigation("Requests");
                 });
 #pragma warning restore 612, 618
         }

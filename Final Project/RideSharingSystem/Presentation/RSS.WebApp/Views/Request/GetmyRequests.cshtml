@@ -1,10 +1,10 @@
-﻿@model IEnumerable<RSS.Business.Models.OfferModel>
+﻿@model IEnumerable<RSS.Business.Models.RequestModel>
 
 @{
-    ViewData["Title"] = "Your Offers";
+    ViewData["Title"] = "Your Requests";
 }
 
-<h3>Your Offers</h3>
+<h3>Your Requests</h3>
 
 <p>
     <a asp-action="Create">Create New</a>
@@ -12,9 +12,6 @@
 <table class="table">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Id)
-            </th>
             <th>
                 @Html.DisplayNameFor(model => model.FromCity)
             </th>
@@ -25,7 +22,10 @@
                 @Html.DisplayNameFor(model => model.DepartureDateTime)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Cost)
+                @Html.DisplayNameFor(model => model.Fare)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
             </th>
             <th></th>
         </tr>
@@ -33,9 +33,6 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Id)
-            </td>
             <td>
                 @Html.DisplayFor(modelItem => item.FromCity)
             </td>
@@ -46,11 +43,13 @@
                 @Html.DisplayFor(modelItem => item.DepartureDateTime)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Cost)
+                @Html.DisplayFor(modelItem => item.Fare)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id=item.Id}) |
-                @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
                 @Html.ActionLink("Delete", "Delete", new { id=item.Id })
             </td>
         </tr>
