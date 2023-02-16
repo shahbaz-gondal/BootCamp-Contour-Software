@@ -46,7 +46,14 @@
                 @Html.DisplayFor(modelItem => item.Cost)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Status)
+                @if (item.Status == "Active")
+                {
+                    <span class="btn btn-success text-light">@Html.DisplayFor(modelItem => item.Status)</span>
+                }
+                else
+                {
+                    <span class="btn btn-danger text-light">@Html.DisplayFor(modelItem => item.Status)</span>
+                }
             </td>
             <td>
                 @Html.ActionLink("Edit", "Edit", new { id=item.Id}) |

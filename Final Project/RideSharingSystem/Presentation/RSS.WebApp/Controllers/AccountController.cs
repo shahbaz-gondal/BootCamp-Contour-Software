@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Exchange.WebServices.Data;
@@ -66,7 +67,11 @@ namespace RSS.WebApp.Controllers
                 return View();
             }
         }
-
+        public ActionResult ForgotPassword()
+        {
+            return View();
+        }
+        [Authorize]
         // GET: AccountController/Edit/5
         public ActionResult LogOut()
         {
@@ -79,10 +84,5 @@ namespace RSS.WebApp.Controllers
             return RedirectToAction("Index", "Home");
         }
 
-        // GET: AccountController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
     }
 }

@@ -21,9 +21,11 @@ namespace RSS.Data.Models
         [Required]
         public string FullName { get; set; }
         [Required]
-        public long Number { get; set; }
+        public string Number { get; set; }
         [Required]
         public string Gender { get; set; }
+        [Required]
+        public string CNIC { get; set; }
         [Required]
         public string Email { get; set; }
         [Required]

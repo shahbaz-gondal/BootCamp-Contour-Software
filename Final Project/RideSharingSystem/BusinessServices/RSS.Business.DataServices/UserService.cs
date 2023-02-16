@@ -16,7 +16,21 @@ namespace RSS.Business.DataServices
         {
             _DBContext = dBContext;
         }
-
+        public List<UserModel> GetAllUsers()
+        {
+            var allusers = _DBContext.Users.ToList();
+            var usersList = allusers.Select(x => new UserModel
+            {
+                Id = x.Id,
+                FullName = x.FullName,
+                Number = x.Number,
+                Gender = x.Gender,
+                CNIC = x.CNIC,
+                Email = x.Email,
+                Password = x.Password
+            }).ToList();
+            return usersList;
+        }
         public bool Register(UserModel model)
         {
             var email = _DBContext.Users.Where(x => x.Email == model.Email).FirstOrDefault();
@@ -28,6 +42,7 @@ namespace RSS.Business.DataServices
                     FullName = model.FullName,
                     Number = model.Number,
                     Gender = model.Gender,
+                    CNIC = model.CNIC,
                     Email = model.Email,
                     Password = model.Password
                 });
@@ -52,6 +67,7 @@ namespace RSS.Business.DataServices
                     Email = user.Email,
                     Gender = user.Gender,
                     Number = user.Number,
+                    CNIC = user.CNIC,
                     Password = user.Password
                 };
                 return userList;

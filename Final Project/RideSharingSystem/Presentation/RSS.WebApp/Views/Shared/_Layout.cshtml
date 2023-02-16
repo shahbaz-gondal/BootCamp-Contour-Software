@@ -40,10 +40,10 @@
                                 <a class="nav-link text-dark" asp-area="" asp-controller="Request" asp-action="GetmyRequests">My Requests</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link btn btn-danger text-light" asp-area="" asp-controller="Account" asp-action="LogOut">LogOut</a>
+                                <a class="nav-link" asp-area="" asp-controller="Account" asp-action="LogOut"><span class="btn btn-danger text-light">LogOut</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link btn btn-success text-light" asp-area="" asp-controller="" asp-action="">Welcome @User.Identity.Name</a>
+                                <a class="nav-link" asp-area="" asp-controller="" asp-action=""><span class="btn btn-success text-light">Welcome @User.Identity.Name</span></a>
                             </li>
                         }
                         else

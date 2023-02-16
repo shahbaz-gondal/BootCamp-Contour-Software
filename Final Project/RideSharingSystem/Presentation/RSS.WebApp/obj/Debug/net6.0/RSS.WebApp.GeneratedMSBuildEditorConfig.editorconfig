@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\BootCamp Contour Software\BootCamp-Contour-Software\Final Project\RideSharingSystem\Presentation\RSS.WebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/BootCamp Contour Software/BootCamp-Contour-Software/Final Project/RideSharingSystem/Presentation/RSS.WebApp/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/BootCamp Contour Software/BootCamp-Contour-Software/Final Project/RideSharingSystem/Presentation/RSS.WebApp/Views/Account/LogIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dJbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

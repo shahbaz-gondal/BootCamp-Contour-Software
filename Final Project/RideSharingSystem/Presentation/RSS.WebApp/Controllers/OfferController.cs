@@ -10,10 +10,12 @@ namespace RSS.WebApp.Controllers
     public class OfferController : Controller
     {
         private readonly IOfferService _offerService;
+        private readonly IUserService _userService;
         const string SessionId = "_Id";
-        public OfferController(IOfferService offerService)
+        public OfferController(IOfferService offerService, IUserService userService)
         {
             _offerService = offerService;
+            _userService = userService;
         }
         public ActionResult GetAllOffers(string? fromCity, string? toCity)
         {
@@ -30,8 +32,12 @@ namespace RSS.WebApp.Controllers
         // GET: OfferController
         public ActionResult GetmyOffers()
         {
-            int id = (int)HttpContext.Session.GetInt32(SessionId);
-            return View(_offerService.myOffers(id));
+            int? id = HttpContext.Session.GetInt32(SessionId);
+            if(id==null)
+            {
+                return RedirectToAction("LogOut", "Account");
+            }
+            return View(_offerService.myOffers((int)id));
         }
 
         [Authorize]
@@ -96,8 +102,14 @@ namespace RSS.WebApp.Controllers
         [Authorize]
         public ActionResult Details(int id)
         {
-            var Details = _offerService.GetAll().Where(x => x.Id == id).FirstOrDefault();
-            return View(Details);
+            var offerDetails = _offerService.GetAll().Where(x => x.Id == id).FirstOrDefault();
+            var driverDetails = _userService.GetAllUsers().Where(x=>x.Id == offerDetails.UserId).FirstOrDefault();
+
+            dynamic model = new System.Dynamic.ExpandoObject();
+            model.dt = offerDetails;
+            model.dr = driverDetails;
+
+            return View(model);
         }
     }
 }

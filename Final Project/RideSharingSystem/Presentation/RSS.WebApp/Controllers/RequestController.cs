@@ -4,16 +4,19 @@ using Microsoft.AspNetCore.Mvc;
 using RSS.Business.DataServices;
 using RSS.Business.Interfaces;
 using RSS.Business.Models;
+using System.Xml.Linq;
 
 namespace RSS.WebApp.Controllers
 {
     public class RequestController : Controller
     {
         private readonly IRequestService _requestService;
+        private readonly IUserService _userService;
         const string SessionId = "_Id";
-        public RequestController(IRequestService requestService)
+        public RequestController(IRequestService requestService, IUserService userService)
         {
             _requestService = requestService;
+            _userService = userService;
         }
         // GET: RequestController
         public ActionResult GetAllRequests(string? fromCity, string? toCity)
@@ -31,8 +34,12 @@ namespace RSS.WebApp.Controllers
         [Authorize]
         public ActionResult GetmyRequests()
         {
-            int id = (int)HttpContext.Session.GetInt32(SessionId);
-            return View(_requestService.myRequests(id));
+            int? id = HttpContext.Session.GetInt32(SessionId);
+            if (id == null)
+            {
+                return RedirectToAction("LogOut", "Account");
+            }
+            return View(_requestService.myRequests((int)id));
         }
 
         [Authorize]
@@ -92,10 +99,17 @@ namespace RSS.WebApp.Controllers
             _requestService.Delete(id);
             return RedirectToAction("GetmyRequests");
         }
+        [Authorize]
         public ActionResult Details(int id)
         {
             var Details = _requestService.GetAll().Where(x => x.Id == id).FirstOrDefault();
-            return View(Details);
+            var driver = _userService.GetAllUsers().Where(x=>x.Id == Details.UserId).FirstOrDefault();
+
+            dynamic model = new System.Dynamic.ExpandoObject();
+            model.dt = Details;
+            model.dr = driver;
+
+            return View(model);
         }
     }
 }
