@@ -47,14 +47,14 @@
                 <span asp-validation-for="Password" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Register" class="btn btn-primary mt-3" />
+                <input type="submit" value="Register" class="btn btn-success mt-3 mb-2" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="LogIn">Login</a>
+    <p>Already have an Account? <a asp-action="LogIn" style="text-decoration:none">Login</a></p>
 </div>
 
 @section Scripts {

@@ -7,7 +7,7 @@
 <h3>Your Offers</h3>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-success btn-rounded">Create New</a>
 </p>
 <table class="table">
     <thead>
@@ -56,8 +56,8 @@
                 }
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id=item.Id}) |
-                @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+                    @Html.ActionLink("Edit", "Edit", new { id=item.Id},new {@style ="color:green"}) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.Id },new {@style = "color:red"})
             </td>
         </tr>
 }

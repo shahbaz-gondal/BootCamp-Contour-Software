@@ -13,16 +13,12 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\images\\pic1.jpg",
-      "PackagePath": "staticwebassets\\images\\pic1.jpg"
+      "Id": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\imgs\\indexPic.jpg",
+      "PackagePath": "staticwebassets\\imgs\\indexPic.jpg"
     },
     {
-      "Id": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\images\\pic2.jpg",
-      "PackagePath": "staticwebassets\\images\\pic2.jpg"
-    },
-    {
-      "Id": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\images\\pic3.jpg",
-      "PackagePath": "staticwebassets\\images\\pic3.jpg"
+      "Id": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\imgs\\indexPic2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\indexPic2.jpg"
     },
     {
       "Id": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\js\\site.js",

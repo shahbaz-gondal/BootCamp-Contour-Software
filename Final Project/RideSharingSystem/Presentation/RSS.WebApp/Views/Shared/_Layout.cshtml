@@ -10,9 +10,9 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">RideSharingSpot</a>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark border-bottom box-shadow mb-3">
+            <div class="container-fluid" style="background-color:#77C3EC">
+                <a class="navbar-brand fw-bold" asp-area="" asp-controller="Account" asp-action="UserProfile">RideSharingSpot</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -34,25 +34,25 @@
                         @if(User.Identity.IsAuthenticated)
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Offer" asp-action="GetmyOffers">My Offers</a>
+                                <a class="nav-link" asp-area="" asp-controller="Offer" asp-action="GetmyOffers"><span class="text-dark">My Offers</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Request" asp-action="GetmyRequests">My Requests</a>
+                                <a class="nav-link" asp-area="" asp-controller="Request" asp-action="GetmyRequests"><span class="text-dark">My Requests</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" asp-area="" asp-controller="Account" asp-action="LogOut"><span class="btn btn-danger text-light">LogOut</span></a>
+                                <a class="nav-link" asp-area="" asp-controller="Account" asp-action="UserProfile"><span class="ml-2 btn btn-success text-light">Welcome @User.Identity.Name</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" asp-area="" asp-controller="" asp-action=""><span class="btn btn-success text-light">Welcome @User.Identity.Name</span></a>
+                                <a class="nav-link" asp-area="" asp-controller="Account" asp-action="LogOut"><span class="ml-2 btn btn-danger text-light">LogOut</span></a>
                             </li>
                         }
                         else
                         {
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="SignUp">Register</a>
+                            <li class="nav-item ml-2">
+                                <a class="nav-link" asp-area="" asp-controller="Account" asp-action="LogIn"><span class="ml-2 btn btn-success text-light">LogIn</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link btn btn-success text-light" asp-area="" asp-controller="Account" asp-action="LogIn">Login</a>
+                                <a class="nav-link" asp-area="" asp-controller="Account" asp-action="SignUp"><span class="btn btn-secondary text-light">Register</span></a>
                             </li>
                         }
                     </ul>
@@ -66,9 +66,9 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="border-top footer text-muted bg-dark">
         <div class="container">
-            &copy; 2023 - RSS.WebApp - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2023 - RSS.WebApp - <a asp-area="" asp-controller="Home" asp-action="Privacy" style="text-decoration:none">Privacy</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

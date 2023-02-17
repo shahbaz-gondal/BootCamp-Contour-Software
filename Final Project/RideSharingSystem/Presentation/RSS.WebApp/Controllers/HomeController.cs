@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using RSS.Business.Models;
 using RSS.WebApp.Models;
 using System.Diagnostics;
 
@@ -13,10 +14,17 @@ namespace RSS.WebApp.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(UserModel model)
         {
             ViewBag.name = HttpContext.Session.GetString("name");
-            return View();
+            if(model == null)
+            {
+                return View();
+            }
+            else
+            {
+                return View(model);
+            }
         }
 
         public IActionResult Privacy()

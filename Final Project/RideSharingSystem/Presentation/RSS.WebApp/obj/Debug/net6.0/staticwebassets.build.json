@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QV9zsnMa0xGxSjso5pVgxpjk3+BNdXuFCpQaM5ai5Lg=",
+  "Hash": "VEJxJI8Z5JNsRjB3yeM42PR9qIeXErbG8dH7U7E4pgo=",
   "Source": "RSS.WebApp",
   "BasePath": "_content/RSS.WebApp",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\images\\pic1.jpg",
+      "Identity": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\imgs\\indexPic.jpg",
       "SourceId": "RSS.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\",
       "BasePath": "_content/RSS.WebApp",
-      "RelativePath": "images/pic1.jpg",
+      "RelativePath": "imgs/indexPic.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\pic1.jpg"
+      "OriginalItemSpec": "wwwroot\\imgs\\indexPic.jpg"
     },
     {
-      "Identity": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\images\\pic2.jpg",
+      "Identity": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\imgs\\indexPic2.jpg",
       "SourceId": "RSS.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\",
       "BasePath": "_content/RSS.WebApp",
-      "RelativePath": "images/pic2.jpg",
+      "RelativePath": "imgs/indexPic2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,24 +116,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\pic2.jpg"
-    },
-    {
-      "Identity": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\images\\pic3.jpg",
-      "SourceId": "RSS.WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\",
-      "BasePath": "_content/RSS.WebApp",
-      "RelativePath": "images/pic3.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\pic3.jpg"
+      "OriginalItemSpec": "wwwroot\\imgs\\indexPic2.jpg"
     },
     {
       "Identity": "E:\\BootCamp Contour Software\\BootCamp-Contour-Software\\Final Project\\RideSharingSystem\\Presentation\\RSS.WebApp\\wwwroot\\js\\site.js",

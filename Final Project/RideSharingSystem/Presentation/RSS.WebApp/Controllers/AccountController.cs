@@ -59,17 +59,58 @@ namespace RSS.WebApp.Controllers
                 var principal = new ClaimsPrincipal(identity);
                 HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
                 HttpContext.Session.SetInt32(SessionId, user.Id);
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("UserProfile");
                 
             }
             else
             {
+                TempData["message"] = "Account not Found";
                 return View();
+            }
+        }
+        public ActionResult UserProfile()
+        {
+            var userid = HttpContext.Session.GetInt32(SessionId);
+            if (userid == null)
+            {
+                return RedirectToAction("LogOut", "Account");
+            }
+            else
+            {
+                var user = _userService.GetAllUsers().Where(x => x.Id == userid).FirstOrDefault();
+                return RedirectToAction("Index", "Home", user);
             }
         }
         public ActionResult ForgotPassword()
         {
             return View();
+        }
+        
+        [HttpPost]
+        public ActionResult ForgotPassword(UserModel model)
+        {
+            var user = _userService.FindEmail(model.Email,model.CNIC);
+            if(user == false)
+            {
+                ViewData["error"] = "Email not Found";
+                return View();
+            }
+            else
+            {
+                TempData["Email"] = model.Email;
+                return RedirectToAction("ResetPassword");
+            }
+        }
+        public ActionResult ResetPassword()
+        {
+            ViewData["Email"] = TempData["Email"];
+            return View();
+        }
+        [HttpPost]
+        public ActionResult ResetPassword(UserModel model)
+        {
+            _userService.ResetPassword(model);
+            return RedirectToAction("LogIn");
         }
         [Authorize]
         // GET: AccountController/Edit/5

@@ -1,4 +1,5 @@
-﻿using RSS.Business.Interfaces;
+﻿using Microsoft.EntityFrameworkCore;
+using RSS.Business.Interfaces;
 using RSS.Business.Models;
 using RSS.Data;
 using System;
@@ -52,6 +53,27 @@ namespace RSS.Business.DataServices
             else
             {
                 return false;
+            }
+        }
+        public bool FindEmail(string Email, string CNIC)
+        {
+            var email = _DBContext.Users.Where(x => x.Email == Email && x.CNIC == CNIC).FirstOrDefault();
+            if(email == null)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
+        }
+        public void ResetPassword(UserModel model)
+        {
+            var entity = _DBContext.Users.FirstOrDefault(x => x.Email == model.Email);
+            if (entity != null)
+            {
+                entity.Password = model.Password;
+                _DBContext.SaveChanges();
             }
         }
         public UserModel Login(UserModel model)
