@@ -59,26 +59,13 @@ namespace RSS.WebApp.Controllers
                 var principal = new ClaimsPrincipal(identity);
                 HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
                 HttpContext.Session.SetInt32(SessionId, user.Id);
-                return RedirectToAction("UserProfile");
+                return RedirectToAction("Index", "Home");
                 
             }
             else
             {
                 TempData["message"] = "Account not Found";
                 return View();
-            }
-        }
-        public ActionResult UserProfile()
-        {
-            var userid = HttpContext.Session.GetInt32(SessionId);
-            if (userid == null)
-            {
-                return RedirectToAction("LogOut", "Account");
-            }
-            else
-            {
-                var user = _userService.GetAllUsers().Where(x => x.Id == userid).FirstOrDefault();
-                return RedirectToAction("Index", "Home", user);
             }
         }
         public ActionResult ForgotPassword()
@@ -116,12 +103,12 @@ namespace RSS.WebApp.Controllers
         // GET: AccountController/Edit/5
         public ActionResult LogOut()
         {
-            HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
-            var storedcookies = Request.Cookies.Keys;
-            foreach(var cookie in storedcookies)
-            {
-                Response.Cookies.Delete(cookie);
-            }
+                HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+                var storedcookies = Request.Cookies.Keys;
+                foreach (var cookie in storedcookies)
+                {
+                    Response.Cookies.Delete(cookie);
+                }
             return RedirectToAction("Index", "Home");
         }
 

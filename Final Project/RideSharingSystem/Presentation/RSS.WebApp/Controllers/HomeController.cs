@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using RSS.Business.Interfaces;
 using RSS.Business.Models;
 using RSS.WebApp.Models;
 using System.Diagnostics;
@@ -8,23 +9,22 @@ namespace RSS.WebApp.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IUserService _userService;
+        const string SessionId = "_Id";
+        public HomeController(ILogger<HomeController> logger, IUserService userService)
         {
             _logger = logger;
+            _userService = userService;
         }
-
-        public IActionResult Index(UserModel model)
+        public IActionResult Index()
         {
-            ViewBag.name = HttpContext.Session.GetString("name");
-            if(model == null)
+            if(User.Identity.IsAuthenticated)
             {
-                return View();
+                var userid = HttpContext.Session.GetInt32(SessionId);
+                UserModel user = _userService.GetAllUsers().Where(x => x.Id == userid).FirstOrDefault();
+                return View(user);
             }
-            else
-            {
-                return View(model);
-            }
+            return View();
         }
 
         public IActionResult Privacy()

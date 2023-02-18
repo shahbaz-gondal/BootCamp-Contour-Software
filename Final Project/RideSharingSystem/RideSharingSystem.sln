@@ -11,19 +11,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessServices", "Busines
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{5A824F9B-01F9-4F06-9EDB-982602676CF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS.Data", "Repositories\RSS.Data\RSS.Data.csproj", "{61B1E6BA-6E81-471C-9B08-09C2B56103B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSS.Data", "Repositories\RSS.Data\RSS.Data.csproj", "{61B1E6BA-6E81-471C-9B08-09C2B56103B1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSS.WebApp", "Presentation\RSS.WebApp\RSS.WebApp.csproj", "{F7E7BBB9-345A-47C3-9089-55EDA5EF82FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS.Data.Models", "Repositories\RSS.Data.Models\RSS.Data.Models.csproj", "{A6C3175D-662F-4BC5-BB89-5B37B703AE0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSS.Data.Models", "Repositories\RSS.Data.Models\RSS.Data.Models.csproj", "{A6C3175D-662F-4BC5-BB89-5B37B703AE0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS.Business.Models", "BusinessServices\RSS.Business.Models\RSS.Business.Models.csproj", "{2E86D8BA-F95B-4BC6-8107-F11ACC7D2B7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSS.Business.Models", "BusinessServices\RSS.Business.Models\RSS.Business.Models.csproj", "{2E86D8BA-F95B-4BC6-8107-F11ACC7D2B7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS.Business.DataServices", "BusinessServices\RSS.Business.DataServices\RSS.Business.DataServices.csproj", "{D29EEAC8-1E4D-4123-BA39-AADDF71F33E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSS.Business.DataServices", "BusinessServices\RSS.Business.DataServices\RSS.Business.DataServices.csproj", "{D29EEAC8-1E4D-4123-BA39-AADDF71F33E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS.Business.Interfaces", "BusinessServices\RSS.Business.Interfaces\RSS.Business.Interfaces.csproj", "{959D8D1F-483C-41D2-A4F1-D0400490C6AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSS.Business.Interfaces", "BusinessServices\RSS.Business.Interfaces\RSS.Business.Interfaces.csproj", "{959D8D1F-483C-41D2-A4F1-D0400490C6AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS.Infrastructure", "Infrastructure\RSS.Infrastructure\RSS.Infrastructure.csproj", "{826CDA26-FC24-4E43-82CA-B92CFE03AF07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSS.Infrastructure", "Infrastructure\RSS.Infrastructure\RSS.Infrastructure.csproj", "{826CDA26-FC24-4E43-82CA-B92CFE03AF07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -64,6 +64,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{5A824F9B-01F9-4F06-9EDB-982602676CF1} = {826C9538-4F40-4D5F-85CA-0F3192A30528}
 		{61B1E6BA-6E81-471C-9B08-09C2B56103B1} = {8E415E8C-EDAF-4A76-8535-9CFE21B0D886}
 		{F7E7BBB9-345A-47C3-9089-55EDA5EF82FA} = {826C9538-4F40-4D5F-85CA-0F3192A30528}
 		{A6C3175D-662F-4BC5-BB89-5B37B703AE0A} = {8E415E8C-EDAF-4A76-8535-9CFE21B0D886}

@@ -58,7 +58,7 @@ namespace RSS.WebApp
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Account}/{action=UserProfile}/{id?}");
+                pattern: "{controller=Account}/{action=LogOut}/{id?}");
 
             app.Run();
         }
