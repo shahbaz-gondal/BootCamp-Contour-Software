@@ -103,12 +103,15 @@ namespace RSS.WebApp.Controllers
         // GET: AccountController/Edit/5
         public ActionResult LogOut()
         {
+            if(User.Identity.IsAuthenticated)
+            {
                 HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
                 var storedcookies = Request.Cookies.Keys;
                 foreach (var cookie in storedcookies)
                 {
                     Response.Cookies.Delete(cookie);
                 }
+            }
             return RedirectToAction("Index", "Home");
         }
 

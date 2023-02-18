@@ -23,7 +23,7 @@ namespace RSS.WebApp
             builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
                 .AddCookie(option =>
                 {
-                    option.ExpireTimeSpan = TimeSpan.FromMinutes(60 * 1);
+                    option.ExpireTimeSpan = TimeSpan.FromMinutes(5 * 1);
                     option.LoginPath = "/Account/LogIn";
                     option.AccessDeniedPath = "/Account/LogIn";
                 });

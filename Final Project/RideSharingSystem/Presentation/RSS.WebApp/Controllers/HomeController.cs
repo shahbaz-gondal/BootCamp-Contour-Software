@@ -18,9 +18,9 @@ namespace RSS.WebApp.Controllers
         }
         public IActionResult Index()
         {
-            if(User.Identity.IsAuthenticated)
+            var userid = HttpContext.Session.GetInt32(SessionId);
+            if (userid != null)
             {
-                var userid = HttpContext.Session.GetInt32(SessionId);
                 UserModel user = _userService.GetAllUsers().Where(x => x.Id == userid).FirstOrDefault();
                 return View(user);
             }
